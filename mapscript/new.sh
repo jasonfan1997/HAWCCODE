@@ -1,0 +1,26 @@
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/102 102 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/104 104 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/105 105 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/106 106 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/114 114 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/115 115 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/117 117 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/118 118 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/119 119 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/17 17 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/18 18 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/30 30 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/43 43 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/55 55 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/62 62 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/67 67 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/68 68 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/75 75 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/79 79 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/80 80 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/88 88 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/90 90 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/91 91 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/92 92 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+sbatch --time=48:00:00 --mem-per-cpu=4000mb -n 1 -c 1 makemap.sh /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/93 93 /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/bayrdseven/map/
+

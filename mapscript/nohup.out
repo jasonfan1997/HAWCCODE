@@ -1,0 +1,1272 @@
+INFO [HealpixSigFluxMap.cc, main:178]: Opening maps...
+INFO [HealpixSigFluxMap.cc, main:178]: Opening maps...
+INFO [HealpixSigFluxMap.cc, main:178]: Opening maps...
+INFO [HealpixSigFluxMap.cc, main:178]: Opening maps...
+INFO [HealpixSigFluxMap.cc, main:178]: Opening maps...
+INFO [HealpixSigFluxMap.cc, main:178]: Opening maps...
+INFO [HealpixSigFluxMap.cc, main:178]: Opening maps...
+INFO [HealpixSigFluxMap.cc, main:178]: Opening maps...
+INFO [HealpixSigFluxMap.cc, main:178]: Opening maps...
+INFO [HealpixSigFluxMap.cc, main:178]: Opening maps...
+INFO [HealpixSigFluxMap.cc, main:236]: Processing detector response...
+INFO [TF1PointSource.cc, describe:140]: 
+TF1 Point Source: 
+  Name:          ps
+  R.A. (J2000):  80 deg
+  Dec. (J2000):  20 deg
+INFO [Func1.h, PrintOut:101]: 
+Function: [0]*pow(x/[3],-[1])*exp(-x/[2]):
+  (Par 0) Norm: 1 +/- 1.75e-11
+  (Par 1) Index: 2.63 +/- 0.1
+  (Par 2) CutOff: 1e+06 +/- 500000
+  (Par 3) Pivot: 1 +/- 0
+INFO [HealpixSigFluxMap.cc, main:408]: Setting window...
+INFO [HealpixSigFluxMap.cc, main:566]: Computing significance...
+INFO [HealpixSigFluxMap.cc, main:236]: Processing detector response...
+INFO [TF1PointSource.cc, describe:140]: 
+TF1 Point Source: 
+  Name:          ps
+  R.A. (J2000):  80 deg
+  Dec. (J2000):  20 deg
+INFO [Func1.h, PrintOut:101]: 
+Function: [0]*pow(x/[3],-[1])*exp(-x/[2]):
+  (Par 0) Norm: 1 +/- 1.75e-11
+  (Par 1) Index: 2.63 +/- 0.1
+  (Par 2) CutOff: 1e+06 +/- 500000
+  (Par 3) Pivot: 1 +/- 0
+INFO [HealpixSigFluxMap.cc, main:236]: Processing detector response...
+INFO [TF1PointSource.cc, describe:140]: 
+TF1 Point Source: 
+  Name:          ps
+  R.A. (J2000):  80 deg
+  Dec. (J2000):  20 deg
+INFO [Func1.h, PrintOut:101]: 
+Function: [0]*pow(x/[3],-[1])*exp(-x/[2]):
+  (Par 0) Norm: 1 +/- 1.75e-11
+  (Par 1) Index: 2.63 +/- 0.1
+  (Par 2) CutOff: 1e+06 +/- 500000
+  (Par 3) Pivot: 1 +/- 0
+INFO [HealpixSigFluxMap.cc, main:408]: Setting window...
+INFO [HealpixSigFluxMap.cc, main:566]: Computing significance...
+INFO [HealpixSigFluxMap.cc, main:236]: Processing detector response...
+INFO [TF1PointSource.cc, describe:140]: 
+TF1 Point Source: 
+  Name:          ps
+  R.A. (J2000):  80 deg
+  Dec. (J2000):  20 deg
+INFO [Func1.h, PrintOut:101]: 
+Function: [0]*pow(x/[3],-[1])*exp(-x/[2]):
+  (Par 0) Norm: 1 +/- 1.75e-11
+  (Par 1) Index: 2.63 +/- 0.1
+  (Par 2) CutOff: 1e+06 +/- 500000
+  (Par 3) Pivot: 1 +/- 0
+INFO [HealpixSigFluxMap.cc, main:236]: Processing detector response...
+INFO [TF1PointSource.cc, describe:140]: 
+TF1 Point Source: 
+  Name:          ps
+  R.A. (J2000):  80 deg
+  Dec. (J2000):  20 deg
+INFO [Func1.h, PrintOut:101]: 
+Function: [0]*pow(x/[3],-[1])*exp(-x/[2]):
+  (Par 0) Norm: 1 +/- 1.75e-11
+  (Par 1) Index: 2.63 +/- 0.1
+  (Par 2) CutOff: 1e+06 +/- 500000
+  (Par 3) Pivot: 1 +/- 0
+INFO [HealpixSigFluxMap.cc, main:236]: Processing detector response...
+INFO [TF1PointSource.cc, describe:140]: 
+TF1 Point Source: 
+  Name:          ps
+  R.A. (J2000):  80 deg
+  Dec. (J2000):  20 deg
+INFO [Func1.h, PrintOut:101]: 
+Function: [0]*pow(x/[3],-[1])*exp(-x/[2]):
+  (Par 0) Norm: 1 +/- 1.75e-11
+  (Par 1) Index: 2.63 +/- 0.1
+  (Par 2) CutOff: 1e+06 +/- 500000
+  (Par 3) Pivot: 1 +/- 0
+INFO [HealpixSigFluxMap.cc, main:236]: Processing detector response...
+INFO [TF1PointSource.cc, describe:140]: 
+TF1 Point Source: 
+  Name:          ps
+  R.A. (J2000):  80 deg
+  Dec. (J2000):  20 deg
+INFO [Func1.h, PrintOut:101]: 
+Function: [0]*pow(x/[3],-[1])*exp(-x/[2]):
+  (Par 0) Norm: 1 +/- 1.75e-11
+  (Par 1) Index: 2.63 +/- 0.1
+  (Par 2) CutOff: 1e+06 +/- 500000
+  (Par 3) Pivot: 1 +/- 0
+INFO [HealpixSigFluxMap.cc, main:236]: Processing detector response...
+INFO [TF1PointSource.cc, describe:140]: 
+TF1 Point Source: 
+  Name:          ps
+  R.A. (J2000):  80 deg
+  Dec. (J2000):  20 deg
+INFO [Func1.h, PrintOut:101]: 
+Function: [0]*pow(x/[3],-[1])*exp(-x/[2]):
+  (Par 0) Norm: 1 +/- 1.75e-11
+  (Par 1) Index: 2.63 +/- 0.1
+  (Par 2) CutOff: 1e+06 +/- 500000
+  (Par 3) Pivot: 1 +/- 0
+INFO [HealpixSigFluxMap.cc, main:408]: Setting window...
+INFO [HealpixSigFluxMap.cc, main:566]: Computing significance...
+INFO [HealpixSigFluxMap.cc, main:408]: Setting window...
+INFO [HealpixSigFluxMap.cc, main:566]: Computing significance...
+INFO [HealpixSigFluxMap.cc, main:408]: Setting window...
+INFO [HealpixSigFluxMap.cc, main:566]: Computing significance...
+INFO [HealpixSigFluxMap.cc, main:236]: Processing detector response...
+INFO [TF1PointSource.cc, describe:140]: 
+TF1 Point Source: 
+  Name:          ps
+  R.A. (J2000):  80 deg
+  Dec. (J2000):  20 deg
+INFO [Func1.h, PrintOut:101]: 
+Function: [0]*pow(x/[3],-[1])*exp(-x/[2]):
+  (Par 0) Norm: 1 +/- 1.75e-11
+  (Par 1) Index: 2.63 +/- 0.1
+  (Par 2) CutOff: 1e+06 +/- 500000
+  (Par 3) Pivot: 1 +/- 0
+INFO [HealpixSigFluxMap.cc, main:408]: Setting window...
+INFO [HealpixSigFluxMap.cc, main:566]: Computing significance...
+INFO [HealpixSigFluxMap.cc, main:408]: Setting window...
+INFO [HealpixSigFluxMap.cc, main:566]: Computing significance...
+INFO [HealpixSigFluxMap.cc, main:628]: 0%
+INFO [HealpixSigFluxMap.cc, main:641]: 1%
+INFO [HealpixSigFluxMap.cc, main:641]: 2%
+INFO [HealpixSigFluxMap.cc, main:641]: 3%
+INFO [HealpixSigFluxMap.cc, main:641]: 4%
+INFO [HealpixSigFluxMap.cc, main:641]: 5%
+INFO [HealpixSigFluxMap.cc, main:641]: 6%
+INFO [HealpixSigFluxMap.cc, main:641]: 7%
+INFO [HealpixSigFluxMap.cc, main:641]: 8%
+INFO [HealpixSigFluxMap.cc, main:641]: 9%
+INFO [HealpixSigFluxMap.cc, main:641]: 10%
+INFO [HealpixSigFluxMap.cc, main:641]: 11%
+INFO [HealpixSigFluxMap.cc, main:641]: 12%
+INFO [HealpixSigFluxMap.cc, main:641]: 13%
+INFO [HealpixSigFluxMap.cc, main:641]: 14%
+INFO [HealpixSigFluxMap.cc, main:641]: 15%
+INFO [HealpixSigFluxMap.cc, main:641]: 16%
+INFO [HealpixSigFluxMap.cc, main:641]: 17%
+INFO [HealpixSigFluxMap.cc, main:641]: 18%
+INFO [HealpixSigFluxMap.cc, main:641]: 19%
+INFO [HealpixSigFluxMap.cc, main:641]: 20%
+INFO [HealpixSigFluxMap.cc, main:641]: 21%
+INFO [HealpixSigFluxMap.cc, main:641]: 22%
+INFO [HealpixSigFluxMap.cc, main:641]: 23%
+INFO [HealpixSigFluxMap.cc, main:641]: 24%
+INFO [HealpixSigFluxMap.cc, main:641]: 25%
+INFO [HealpixSigFluxMap.cc, main:641]: 26%
+INFO [HealpixSigFluxMap.cc, main:641]: 27%
+INFO [HealpixSigFluxMap.cc, main:641]: 28%
+INFO [HealpixSigFluxMap.cc, main:641]: 29%
+INFO [HealpixSigFluxMap.cc, main:641]: 30%
+INFO [HealpixSigFluxMap.cc, main:641]: 31%
+INFO [HealpixSigFluxMap.cc, main:641]: 32%
+INFO [HealpixSigFluxMap.cc, main:641]: 33%
+INFO [HealpixSigFluxMap.cc, main:641]: 34%
+INFO [HealpixSigFluxMap.cc, main:408]: Setting window...
+INFO [HealpixSigFluxMap.cc, main:566]: Computing significance...
+INFO [HealpixSigFluxMap.cc, main:641]: 35%
+INFO [HealpixSigFluxMap.cc, main:641]: 36%
+INFO [HealpixSigFluxMap.cc, main:641]: 37%
+INFO [HealpixSigFluxMap.cc, main:641]: 38%
+INFO [HealpixSigFluxMap.cc, main:641]: 39%
+INFO [HealpixSigFluxMap.cc, main:641]: 40%
+INFO [HealpixSigFluxMap.cc, main:641]: 41%
+INFO [HealpixSigFluxMap.cc, main:641]: 42%
+INFO [HealpixSigFluxMap.cc, main:641]: 43%
+INFO [HealpixSigFluxMap.cc, main:641]: 44%
+INFO [HealpixSigFluxMap.cc, main:641]: 45%
+INFO [HealpixSigFluxMap.cc, main:641]: 46%
+INFO [HealpixSigFluxMap.cc, main:641]: 47%
+INFO [HealpixSigFluxMap.cc, main:641]: 48%
+INFO [HealpixSigFluxMap.cc, main:641]: 49%
+INFO [HealpixSigFluxMap.cc, main:641]: 50%
+INFO [HealpixSigFluxMap.cc, main:641]: 51%
+INFO [HealpixSigFluxMap.cc, main:641]: 52%
+INFO [HealpixSigFluxMap.cc, main:641]: 53%
+INFO [HealpixSigFluxMap.cc, main:641]: 54%
+INFO [HealpixSigFluxMap.cc, main:641]: 55%
+INFO [HealpixSigFluxMap.cc, main:641]: 56%
+INFO [HealpixSigFluxMap.cc, main:641]: 57%
+INFO [HealpixSigFluxMap.cc, main:641]: 58%
+INFO [HealpixSigFluxMap.cc, main:641]: 59%
+INFO [HealpixSigFluxMap.cc, main:641]: 60%
+INFO [HealpixSigFluxMap.cc, main:641]: 61%
+INFO [HealpixSigFluxMap.cc, main:641]: 62%
+INFO [HealpixSigFluxMap.cc, main:641]: 63%
+INFO [HealpixSigFluxMap.cc, main:641]: 64%
+INFO [HealpixSigFluxMap.cc, main:641]: 65%
+INFO [HealpixSigFluxMap.cc, main:641]: 66%
+INFO [HealpixSigFluxMap.cc, main:641]: 67%
+INFO [HealpixSigFluxMap.cc, main:641]: 68%
+INFO [HealpixSigFluxMap.cc, main:641]: 69%
+INFO [HealpixSigFluxMap.cc, main:641]: 70%
+INFO [HealpixSigFluxMap.cc, main:641]: 71%
+INFO [HealpixSigFluxMap.cc, main:641]: 72%
+INFO [HealpixSigFluxMap.cc, main:641]: 73%
+INFO [HealpixSigFluxMap.cc, main:641]: 74%
+INFO [HealpixSigFluxMap.cc, main:641]: 75%
+INFO [HealpixSigFluxMap.cc, main:641]: 76%
+INFO [HealpixSigFluxMap.cc, main:236]: Processing detector response...
+INFO [TF1PointSource.cc, describe:140]: 
+TF1 Point Source: 
+  Name:          ps
+  R.A. (J2000):  80 deg
+  Dec. (J2000):  20 deg
+INFO [Func1.h, PrintOut:101]: 
+Function: [0]*pow(x/[3],-[1])*exp(-x/[2]):
+  (Par 0) Norm: 1 +/- 1.75e-11
+  (Par 1) Index: 2.63 +/- 0.1
+  (Par 2) CutOff: 1e+06 +/- 500000
+  (Par 3) Pivot: 1 +/- 0
+INFO [HealpixSigFluxMap.cc, main:641]: 77%
+INFO [HealpixSigFluxMap.cc, main:641]: 78%
+INFO [HealpixSigFluxMap.cc, main:641]: 79%
+INFO [HealpixSigFluxMap.cc, main:641]: 80%
+INFO [HealpixSigFluxMap.cc, main:641]: 81%
+INFO [HealpixSigFluxMap.cc, main:641]: 82%
+INFO [HealpixSigFluxMap.cc, main:641]: 83%
+INFO [HealpixSigFluxMap.cc, main:641]: 84%
+INFO [HealpixSigFluxMap.cc, main:641]: 85%
+INFO [HealpixSigFluxMap.cc, main:641]: 86%
+INFO [HealpixSigFluxMap.cc, main:641]: 87%
+INFO [HealpixSigFluxMap.cc, main:641]: 88%
+INFO [HealpixSigFluxMap.cc, main:641]: 89%
+INFO [HealpixSigFluxMap.cc, main:641]: 90%
+INFO [HealpixSigFluxMap.cc, main:641]: 91%
+INFO [HealpixSigFluxMap.cc, main:641]: 92%
+INFO [HealpixSigFluxMap.cc, main:641]: 93%
+INFO [HealpixSigFluxMap.cc, main:641]: 94%
+INFO [HealpixSigFluxMap.cc, main:641]: 95%
+INFO [HealpixSigFluxMap.cc, main:641]: 96%
+INFO [HealpixSigFluxMap.cc, main:641]: 97%
+INFO [HealpixSigFluxMap.cc, main:641]: 98%
+INFO [HealpixSigFluxMap.cc, main:641]: 99%
+INFO [HealpixSigFluxMap.cc, main:641]: 100%
+INFO [HealpixSigFluxMap.cc, main:855]: Writing file /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/cut/map/79.fits.gz to disk...
+INFO [HealpixSigFluxMap.cc, main:408]: Setting window...
+INFO [HealpixSigFluxMap.cc, main:566]: Computing significance...
+INFO [HealpixSigFluxMap.cc, main:900]: Elapsed time: 2.65 min
+INFO [HealpixSigFluxMap.cc, main:628]: 0%
+INFO [HealpixSigFluxMap.cc, main:641]: 1%
+INFO [HealpixSigFluxMap.cc, main:641]: 2%
+INFO [HealpixSigFluxMap.cc, main:628]: 0%
+INFO [HealpixSigFluxMap.cc, main:641]: 3%
+INFO [HealpixSigFluxMap.cc, main:641]: 1%
+INFO [HealpixSigFluxMap.cc, main:408]: Setting window...
+INFO [HealpixSigFluxMap.cc, main:566]: Computing significance...
+INFO [HealpixSigFluxMap.cc, main:641]: 4%
+INFO [HealpixSigFluxMap.cc, main:628]: 0%
+INFO [HealpixSigFluxMap.cc, main:641]: 2%
+INFO [HealpixSigFluxMap.cc, main:641]: 5%
+INFO [HealpixSigFluxMap.cc, main:641]: 3%
+INFO [HealpixSigFluxMap.cc, main:641]: 1%
+INFO [HealpixSigFluxMap.cc, main:641]: 6%
+INFO [HealpixSigFluxMap.cc, main:641]: 4%
+INFO [HealpixSigFluxMap.cc, main:641]: 2%
+INFO [HealpixSigFluxMap.cc, main:641]: 7%
+INFO [HealpixSigFluxMap.cc, main:641]: 5%
+INFO [HealpixSigFluxMap.cc, main:641]: 3%
+INFO [HealpixSigFluxMap.cc, main:641]: 8%
+INFO [HealpixSigFluxMap.cc, main:641]: 6%
+INFO [HealpixSigFluxMap.cc, main:641]: 4%
+INFO [HealpixSigFluxMap.cc, main:641]: 9%
+INFO [HealpixSigFluxMap.cc, main:641]: 7%
+INFO [HealpixSigFluxMap.cc, main:641]: 5%
+INFO [HealpixSigFluxMap.cc, main:641]: 10%
+INFO [HealpixSigFluxMap.cc, main:641]: 8%
+INFO [HealpixSigFluxMap.cc, main:641]: 6%
+INFO [HealpixSigFluxMap.cc, main:641]: 11%
+INFO [HealpixSigFluxMap.cc, main:641]: 9%
+INFO [HealpixSigFluxMap.cc, main:641]: 12%
+INFO [HealpixSigFluxMap.cc, main:641]: 7%
+INFO [HealpixSigFluxMap.cc, main:641]: 10%
+INFO [HealpixSigFluxMap.cc, main:641]: 13%
+INFO [HealpixSigFluxMap.cc, main:641]: 8%
+INFO [HealpixSigFluxMap.cc, main:641]: 11%
+INFO [HealpixSigFluxMap.cc, main:641]: 14%
+INFO [HealpixSigFluxMap.cc, main:641]: 9%
+INFO [HealpixSigFluxMap.cc, main:641]: 12%
+INFO [HealpixSigFluxMap.cc, main:641]: 15%
+INFO [HealpixSigFluxMap.cc, main:641]: 10%
+INFO [HealpixSigFluxMap.cc, main:641]: 13%
+INFO [HealpixSigFluxMap.cc, main:641]: 16%
+INFO [HealpixSigFluxMap.cc, main:641]: 11%
+INFO [HealpixSigFluxMap.cc, main:641]: 14%
+INFO [HealpixSigFluxMap.cc, main:641]: 17%
+INFO [HealpixSigFluxMap.cc, main:641]: 12%
+INFO [HealpixSigFluxMap.cc, main:641]: 15%
+INFO [HealpixSigFluxMap.cc, main:641]: 18%
+INFO [HealpixSigFluxMap.cc, main:641]: 13%
+INFO [HealpixSigFluxMap.cc, main:641]: 16%
+INFO [HealpixSigFluxMap.cc, main:641]: 19%
+INFO [HealpixSigFluxMap.cc, main:641]: 14%
+INFO [HealpixSigFluxMap.cc, main:641]: 17%
+INFO [HealpixSigFluxMap.cc, main:641]: 20%
+INFO [HealpixSigFluxMap.cc, main:641]: 18%
+INFO [HealpixSigFluxMap.cc, main:641]: 15%
+INFO [HealpixSigFluxMap.cc, main:641]: 21%
+INFO [HealpixSigFluxMap.cc, main:641]: 19%
+INFO [HealpixSigFluxMap.cc, main:641]: 16%
+INFO [HealpixSigFluxMap.cc, main:641]: 22%
+INFO [HealpixSigFluxMap.cc, main:641]: 20%
+INFO [HealpixSigFluxMap.cc, main:641]: 17%
+INFO [HealpixSigFluxMap.cc, main:641]: 21%
+INFO [HealpixSigFluxMap.cc, main:641]: 18%
+INFO [HealpixSigFluxMap.cc, main:641]: 23%
+INFO [HealpixSigFluxMap.cc, main:641]: 22%
+INFO [HealpixSigFluxMap.cc, main:641]: 19%
+INFO [HealpixSigFluxMap.cc, main:641]: 23%
+INFO [HealpixSigFluxMap.cc, main:641]: 20%
+INFO [HealpixSigFluxMap.cc, main:641]: 24%
+INFO [HealpixSigFluxMap.cc, main:641]: 24%
+INFO [HealpixSigFluxMap.cc, main:641]: 21%
+INFO [HealpixSigFluxMap.cc, main:641]: 25%
+INFO [HealpixSigFluxMap.cc, main:641]: 25%
+INFO [HealpixSigFluxMap.cc, main:641]: 22%
+INFO [HealpixSigFluxMap.cc, main:641]: 26%
+INFO [HealpixSigFluxMap.cc, main:641]: 27%
+INFO [HealpixSigFluxMap.cc, main:641]: 23%
+INFO [HealpixSigFluxMap.cc, main:641]: 26%
+INFO [HealpixSigFluxMap.cc, main:641]: 28%
+INFO [HealpixSigFluxMap.cc, main:641]: 24%
+INFO [HealpixSigFluxMap.cc, main:641]: 29%
+INFO [HealpixSigFluxMap.cc, main:641]: 25%
+INFO [HealpixSigFluxMap.cc, main:641]: 27%
+INFO [HealpixSigFluxMap.cc, main:641]: 30%
+INFO [HealpixSigFluxMap.cc, main:641]: 26%
+INFO [HealpixSigFluxMap.cc, main:641]: 31%
+INFO [HealpixSigFluxMap.cc, main:641]: 28%
+INFO [HealpixSigFluxMap.cc, main:641]: 27%
+INFO [HealpixSigFluxMap.cc, main:641]: 32%
+INFO [HealpixSigFluxMap.cc, main:641]: 28%
+INFO [HealpixSigFluxMap.cc, main:641]: 33%
+INFO [HealpixSigFluxMap.cc, main:641]: 29%
+INFO [HealpixSigFluxMap.cc, main:641]: 29%
+INFO [HealpixSigFluxMap.cc, main:641]: 34%
+INFO [HealpixSigFluxMap.cc, main:641]: 30%
+INFO [HealpixSigFluxMap.cc, main:641]: 35%
+INFO [HealpixSigFluxMap.cc, main:641]: 30%
+INFO [HealpixSigFluxMap.cc, main:641]: 31%
+INFO [HealpixSigFluxMap.cc, main:641]: 36%
+INFO [HealpixSigFluxMap.cc, main:641]: 32%
+INFO [HealpixSigFluxMap.cc, main:641]: 37%
+INFO [HealpixSigFluxMap.cc, main:641]: 31%
+INFO [HealpixSigFluxMap.cc, main:641]: 33%
+INFO [HealpixSigFluxMap.cc, main:641]: 38%
+INFO [HealpixSigFluxMap.cc, main:641]: 32%
+INFO [HealpixSigFluxMap.cc, main:641]: 39%
+INFO [HealpixSigFluxMap.cc, main:641]: 34%
+INFO [HealpixSigFluxMap.cc, main:641]: 40%
+INFO [HealpixSigFluxMap.cc, main:641]: 35%
+INFO [HealpixSigFluxMap.cc, main:641]: 33%
+INFO [HealpixSigFluxMap.cc, main:641]: 41%
+INFO [HealpixSigFluxMap.cc, main:641]: 36%
+INFO [HealpixSigFluxMap.cc, main:641]: 42%
+INFO [HealpixSigFluxMap.cc, main:641]: 37%
+INFO [HealpixSigFluxMap.cc, main:641]: 34%
+INFO [HealpixSigFluxMap.cc, main:641]: 43%
+INFO [HealpixSigFluxMap.cc, main:641]: 38%
+INFO [HealpixSigFluxMap.cc, main:641]: 44%
+INFO [HealpixSigFluxMap.cc, main:641]: 35%
+INFO [HealpixSigFluxMap.cc, main:641]: 39%
+INFO [HealpixSigFluxMap.cc, main:641]: 45%
+INFO [HealpixSigFluxMap.cc, main:641]: 40%
+INFO [HealpixSigFluxMap.cc, main:641]: 36%
+INFO [HealpixSigFluxMap.cc, main:641]: 46%
+INFO [HealpixSigFluxMap.cc, main:641]: 41%
+INFO [HealpixSigFluxMap.cc, main:641]: 47%
+INFO [HealpixSigFluxMap.cc, main:641]: 37%
+INFO [HealpixSigFluxMap.cc, main:641]: 42%
+INFO [HealpixSigFluxMap.cc, main:641]: 48%
+INFO [HealpixSigFluxMap.cc, main:641]: 43%
+INFO [HealpixSigFluxMap.cc, main:641]: 38%
+INFO [HealpixSigFluxMap.cc, main:641]: 49%
+INFO [HealpixSigFluxMap.cc, main:641]: 44%
+INFO [HealpixSigFluxMap.cc, main:641]: 50%
+INFO [HealpixSigFluxMap.cc, main:641]: 39%
+INFO [HealpixSigFluxMap.cc, main:641]: 45%
+INFO [HealpixSigFluxMap.cc, main:641]: 51%
+INFO [HealpixSigFluxMap.cc, main:641]: 46%
+INFO [HealpixSigFluxMap.cc, main:628]: 0%
+INFO [HealpixSigFluxMap.cc, main:641]: 40%
+INFO [HealpixSigFluxMap.cc, main:641]: 52%
+INFO [HealpixSigFluxMap.cc, main:641]: 1%
+INFO [HealpixSigFluxMap.cc, main:641]: 47%
+INFO [HealpixSigFluxMap.cc, main:641]: 53%
+INFO [HealpixSigFluxMap.cc, main:641]: 41%
+INFO [HealpixSigFluxMap.cc, main:641]: 2%
+INFO [HealpixSigFluxMap.cc, main:641]: 48%
+INFO [HealpixSigFluxMap.cc, main:641]: 54%
+INFO [HealpixSigFluxMap.cc, main:641]: 3%
+INFO [HealpixSigFluxMap.cc, main:641]: 49%
+INFO [HealpixSigFluxMap.cc, main:641]: 42%
+INFO [HealpixSigFluxMap.cc, main:641]: 55%
+INFO [HealpixSigFluxMap.cc, main:641]: 4%
+INFO [HealpixSigFluxMap.cc, main:641]: 50%
+INFO [HealpixSigFluxMap.cc, main:641]: 56%
+INFO [HealpixSigFluxMap.cc, main:641]: 5%
+INFO [HealpixSigFluxMap.cc, main:641]: 43%
+INFO [HealpixSigFluxMap.cc, main:641]: 51%
+INFO [HealpixSigFluxMap.cc, main:641]: 6%
+INFO [HealpixSigFluxMap.cc, main:641]: 57%
+INFO [HealpixSigFluxMap.cc, main:641]: 52%
+INFO [HealpixSigFluxMap.cc, main:641]: 7%
+INFO [HealpixSigFluxMap.cc, main:641]: 58%
+INFO [HealpixSigFluxMap.cc, main:641]: 44%
+INFO [HealpixSigFluxMap.cc, main:641]: 8%
+INFO [HealpixSigFluxMap.cc, main:641]: 53%
+INFO [HealpixSigFluxMap.cc, main:641]: 59%
+INFO [HealpixSigFluxMap.cc, main:641]: 9%
+INFO [HealpixSigFluxMap.cc, main:641]: 45%
+INFO [HealpixSigFluxMap.cc, main:641]: 54%
+INFO [HealpixSigFluxMap.cc, main:641]: 60%
+INFO [HealpixSigFluxMap.cc, main:641]: 10%
+INFO [HealpixSigFluxMap.cc, main:641]: 55%
+INFO [HealpixSigFluxMap.cc, main:641]: 61%
+INFO [HealpixSigFluxMap.cc, main:641]: 46%
+INFO [HealpixSigFluxMap.cc, main:641]: 11%
+INFO [HealpixSigFluxMap.cc, main:628]: 0%
+INFO [HealpixSigFluxMap.cc, main:641]: 56%
+INFO [HealpixSigFluxMap.cc, main:641]: 62%
+INFO [HealpixSigFluxMap.cc, main:641]: 12%
+INFO [HealpixSigFluxMap.cc, main:641]: 1%
+INFO [HealpixSigFluxMap.cc, main:641]: 47%
+INFO [HealpixSigFluxMap.cc, main:641]: 63%
+INFO [HealpixSigFluxMap.cc, main:641]: 57%
+INFO [HealpixSigFluxMap.cc, main:641]: 13%
+INFO [HealpixSigFluxMap.cc, main:641]: 2%
+INFO [HealpixSigFluxMap.cc, main:641]: 64%
+INFO [HealpixSigFluxMap.cc, main:641]: 58%
+INFO [HealpixSigFluxMap.cc, main:641]: 48%
+INFO [HealpixSigFluxMap.cc, main:641]: 3%
+INFO [HealpixSigFluxMap.cc, main:641]: 14%
+INFO [HealpixSigFluxMap.cc, main:641]: 65%
+INFO [HealpixSigFluxMap.cc, main:641]: 59%
+INFO [HealpixSigFluxMap.cc, main:641]: 4%
+INFO [HealpixSigFluxMap.cc, main:641]: 15%
+INFO [HealpixSigFluxMap.cc, main:641]: 49%
+INFO [HealpixSigFluxMap.cc, main:641]: 5%
+INFO [HealpixSigFluxMap.cc, main:641]: 66%
+INFO [HealpixSigFluxMap.cc, main:641]: 60%
+INFO [HealpixSigFluxMap.cc, main:641]: 16%
+INFO [HealpixSigFluxMap.cc, main:641]: 6%
+INFO [HealpixSigFluxMap.cc, main:641]: 67%
+INFO [HealpixSigFluxMap.cc, main:641]: 50%
+INFO [HealpixSigFluxMap.cc, main:641]: 61%
+INFO [HealpixSigFluxMap.cc, main:641]: 17%
+INFO [HealpixSigFluxMap.cc, main:641]: 7%
+INFO [HealpixSigFluxMap.cc, main:641]: 68%
+INFO [HealpixSigFluxMap.cc, main:641]: 62%
+INFO [HealpixSigFluxMap.cc, main:641]: 8%
+INFO [HealpixSigFluxMap.cc, main:641]: 51%
+INFO [HealpixSigFluxMap.cc, main:641]: 18%
+INFO [HealpixSigFluxMap.cc, main:641]: 69%
+INFO [HealpixSigFluxMap.cc, main:641]: 63%
+INFO [HealpixSigFluxMap.cc, main:641]: 9%
+INFO [HealpixSigFluxMap.cc, main:641]: 19%
+INFO [HealpixSigFluxMap.cc, main:641]: 52%
+INFO [HealpixSigFluxMap.cc, main:641]: 70%
+INFO [HealpixSigFluxMap.cc, main:641]: 10%
+INFO [HealpixSigFluxMap.cc, main:641]: 64%
+INFO [HealpixSigFluxMap.cc, main:641]: 20%
+INFO [HealpixSigFluxMap.cc, main:641]: 71%
+INFO [HealpixSigFluxMap.cc, main:641]: 11%
+INFO [HealpixSigFluxMap.cc, main:641]: 53%
+INFO [HealpixSigFluxMap.cc, main:641]: 65%
+INFO [HealpixSigFluxMap.cc, main:641]: 21%
+INFO [HealpixSigFluxMap.cc, main:641]: 12%
+INFO [HealpixSigFluxMap.cc, main:641]: 72%
+INFO [HealpixSigFluxMap.cc, main:641]: 66%
+INFO [HealpixSigFluxMap.cc, main:641]: 13%
+INFO [HealpixSigFluxMap.cc, main:641]: 22%
+INFO [HealpixSigFluxMap.cc, main:641]: 54%
+INFO [HealpixSigFluxMap.cc, main:641]: 73%
+INFO [HealpixSigFluxMap.cc, main:641]: 14%
+INFO [HealpixSigFluxMap.cc, main:641]: 67%
+INFO [HealpixSigFluxMap.cc, main:641]: 23%
+INFO [HealpixSigFluxMap.cc, main:641]: 74%
+INFO [HealpixSigFluxMap.cc, main:641]: 55%
+INFO [HealpixSigFluxMap.cc, main:641]: 15%
+INFO [HealpixSigFluxMap.cc, main:641]: 68%
+INFO [HealpixSigFluxMap.cc, main:641]: 75%
+INFO [HealpixSigFluxMap.cc, main:641]: 16%
+INFO [HealpixSigFluxMap.cc, main:641]: 24%
+INFO [HealpixSigFluxMap.cc, main:641]: 69%
+INFO [HealpixSigFluxMap.cc, main:641]: 56%
+INFO [HealpixSigFluxMap.cc, main:641]: 76%
+INFO [HealpixSigFluxMap.cc, main:641]: 17%
+INFO [HealpixSigFluxMap.cc, main:641]: 70%
+INFO [HealpixSigFluxMap.cc, main:641]: 25%
+INFO [HealpixSigFluxMap.cc, main:641]: 18%
+INFO [HealpixSigFluxMap.cc, main:641]: 77%
+INFO [HealpixSigFluxMap.cc, main:641]: 57%
+INFO [HealpixSigFluxMap.cc, main:641]: 71%
+INFO [HealpixSigFluxMap.cc, main:641]: 19%
+INFO [HealpixSigFluxMap.cc, main:641]: 78%
+INFO [HealpixSigFluxMap.cc, main:641]: 26%
+INFO [HealpixSigFluxMap.cc, main:641]: 58%
+INFO [HealpixSigFluxMap.cc, main:641]: 20%
+INFO [HealpixSigFluxMap.cc, main:641]: 72%
+INFO [HealpixSigFluxMap.cc, main:641]: 79%
+INFO [HealpixSigFluxMap.cc, main:641]: 21%
+INFO [HealpixSigFluxMap.cc, main:641]: 73%
+INFO [HealpixSigFluxMap.cc, main:641]: 27%
+INFO [HealpixSigFluxMap.cc, main:641]: 80%
+INFO [HealpixSigFluxMap.cc, main:641]: 59%
+INFO [HealpixSigFluxMap.cc, main:641]: 22%
+INFO [HealpixSigFluxMap.cc, main:641]: 74%
+INFO [HealpixSigFluxMap.cc, main:641]: 81%
+INFO [HealpixSigFluxMap.cc, main:641]: 28%
+INFO [HealpixSigFluxMap.cc, main:641]: 23%
+INFO [HealpixSigFluxMap.cc, main:641]: 75%
+INFO [HealpixSigFluxMap.cc, main:641]: 60%
+INFO [HealpixSigFluxMap.cc, main:641]: 82%
+INFO [HealpixSigFluxMap.cc, main:641]: 24%
+INFO [HealpixSigFluxMap.cc, main:641]: 76%
+INFO [HealpixSigFluxMap.cc, main:641]: 29%
+INFO [HealpixSigFluxMap.cc, main:641]: 83%
+INFO [HealpixSigFluxMap.cc, main:641]: 25%
+INFO [HealpixSigFluxMap.cc, main:641]: 77%
+INFO [HealpixSigFluxMap.cc, main:641]: 61%
+INFO [HealpixSigFluxMap.cc, main:641]: 84%
+INFO [HealpixSigFluxMap.cc, main:641]: 26%
+INFO [HealpixSigFluxMap.cc, main:641]: 30%
+INFO [HealpixSigFluxMap.cc, main:641]: 78%
+INFO [HealpixSigFluxMap.cc, main:641]: 27%
+INFO [HealpixSigFluxMap.cc, main:641]: 85%
+INFO [HealpixSigFluxMap.cc, main:641]: 62%
+INFO [HealpixSigFluxMap.cc, main:641]: 79%
+INFO [HealpixSigFluxMap.cc, main:641]: 31%
+INFO [HealpixSigFluxMap.cc, main:641]: 28%
+INFO [HealpixSigFluxMap.cc, main:641]: 86%
+INFO [HealpixSigFluxMap.cc, main:641]: 80%
+INFO [HealpixSigFluxMap.cc, main:641]: 63%
+INFO [HealpixSigFluxMap.cc, main:641]: 29%
+INFO [HealpixSigFluxMap.cc, main:641]: 32%
+INFO [HealpixSigFluxMap.cc, main:641]: 87%
+INFO [HealpixSigFluxMap.cc, main:641]: 81%
+INFO [HealpixSigFluxMap.cc, main:641]: 30%
+INFO [HealpixSigFluxMap.cc, main:641]: 88%
+INFO [HealpixSigFluxMap.cc, main:641]: 64%
+INFO [HealpixSigFluxMap.cc, main:641]: 82%
+INFO [HealpixSigFluxMap.cc, main:641]: 31%
+INFO [HealpixSigFluxMap.cc, main:641]: 33%
+INFO [HealpixSigFluxMap.cc, main:641]: 89%
+INFO [HealpixSigFluxMap.cc, main:641]: 83%
+INFO [HealpixSigFluxMap.cc, main:641]: 32%
+INFO [HealpixSigFluxMap.cc, main:641]: 65%
+INFO [HealpixSigFluxMap.cc, main:641]: 34%
+INFO [HealpixSigFluxMap.cc, main:641]: 90%
+INFO [HealpixSigFluxMap.cc, main:641]: 84%
+INFO [HealpixSigFluxMap.cc, main:641]: 33%
+INFO [HealpixSigFluxMap.cc, main:641]: 91%
+INFO [HealpixSigFluxMap.cc, main:641]: 34%
+INFO [HealpixSigFluxMap.cc, main:641]: 66%
+INFO [HealpixSigFluxMap.cc, main:641]: 85%
+INFO [HealpixSigFluxMap.cc, main:641]: 35%
+INFO [HealpixSigFluxMap.cc, main:641]: 35%
+INFO [HealpixSigFluxMap.cc, main:641]: 92%
+INFO [HealpixSigFluxMap.cc, main:641]: 86%
+INFO [HealpixSigFluxMap.cc, main:641]: 67%
+INFO [HealpixSigFluxMap.cc, main:641]: 36%
+INFO [HealpixSigFluxMap.cc, main:641]: 36%
+INFO [HealpixSigFluxMap.cc, main:641]: 93%
+INFO [HealpixSigFluxMap.cc, main:641]: 87%
+INFO [HealpixSigFluxMap.cc, main:641]: 37%
+INFO [HealpixSigFluxMap.cc, main:641]: 88%
+INFO [HealpixSigFluxMap.cc, main:641]: 68%
+INFO [HealpixSigFluxMap.cc, main:641]: 94%
+INFO [HealpixSigFluxMap.cc, main:641]: 37%
+INFO [HealpixSigFluxMap.cc, main:641]: 38%
+INFO [HealpixSigFluxMap.cc, main:641]: 89%
+INFO [HealpixSigFluxMap.cc, main:641]: 95%
+INFO [HealpixSigFluxMap.cc, main:641]: 39%
+INFO [HealpixSigFluxMap.cc, main:641]: 69%
+INFO [HealpixSigFluxMap.cc, main:641]: 38%
+INFO [HealpixSigFluxMap.cc, main:641]: 90%
+INFO [HealpixSigFluxMap.cc, main:641]: 96%
+INFO [HealpixSigFluxMap.cc, main:641]: 40%
+INFO [HealpixSigFluxMap.cc, main:641]: 39%
+INFO INFO [[HealpixSigFluxMap.ccHealpixSigFluxMap, .ccmain, :main641:]: 64191%]: 
+70%
+INFO [HealpixSigFluxMap.cc, main:641]: 97%
+INFO [HealpixSigFluxMap.cc, main:641]: 41%
+INFO [HealpixSigFluxMap.cc, main:641]: 92%
+INFO [HealpixSigFluxMap.cc, main:641]: 42%
+INFO [HealpixSigFluxMap.cc, main:641]: 98%
+INFO [HealpixSigFluxMap.cc, main:641]: 40%
+INFO [HealpixSigFluxMap.cc, main:641]: 71%
+INFO [HealpixSigFluxMap.cc, main:641]: 43%
+INFO [HealpixSigFluxMap.cc, main:641]: 93%
+INFO [HealpixSigFluxMap.cc, main:641]: 99%
+INFO [HealpixSigFluxMap.cc, main:641]: 44%
+INFO [HealpixSigFluxMap.cc, main:641]: 41%
+INFO [HealpixSigFluxMap.cc, main:641]: 72%
+INFO [HealpixSigFluxMap.cc, main:641]: 94%
+INFO [HealpixSigFluxMap.cc, main:641]: 100%
+INFO [HealpixSigFluxMap.cc, main:855]: Writing file /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/cut/map/20.fits.gz to disk...
+INFO [HealpixSigFluxMap.cc, main:641]: 45%
+INFO [HealpixSigFluxMap.cc, main:641]: 95%
+INFO [HealpixSigFluxMap.cc, main:641]: 42%
+INFO [HealpixSigFluxMap.cc, main:641]: 73%
+INFO [HealpixSigFluxMap.cc, main:641]: 46%
+INFO [HealpixSigFluxMap.cc, main:641]: 96%
+INFO [HealpixSigFluxMap.cc, main:641]: 47%
+INFO [HealpixSigFluxMap.cc, main:641]: 43%
+INFO [HealpixSigFluxMap.cc, main:641]: 74%
+INFO [HealpixSigFluxMap.cc, main:641]: 97%
+INFO [HealpixSigFluxMap.cc, main:641]: 48%
+INFO [HealpixSigFluxMap.cc, main:641]: 98%
+INFO [HealpixSigFluxMap.cc, main:641]: 49%
+INFO [HealpixSigFluxMap.cc, main:641]: 44%
+INFO [HealpixSigFluxMap.cc, main:641]: 75%
+INFO [HealpixSigFluxMap.cc, main:641]: 99%
+INFO [HealpixSigFluxMap.cc, main:641]: 50%
+INFO [HealpixSigFluxMap.cc, main:628]: 0%
+INFO [HealpixSigFluxMap.cc, main:641]: 45%
+/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/pyfits/__init__.py:22: PyFITSDeprecationWarning: PyFITS is deprecated, please use astropy.io.fits
+  PyFITSDeprecationWarning)  # noqa
+INFO [HealpixSigFluxMap.cc, main:641]: 76%
+INFO [HealpixSigFluxMap.cc, main:641]: 51%
+INFO [HealpixSigFluxMap.cc, main:641]: 100%
+INFO [HealpixSigFluxMap.cc, main:855]: Writing file /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/cut/map/94.fits.gz to disk...
+INFO [HealpixSigFluxMap.cc, main:641]: 1%
+INFO [HealpixSigFluxMap.cc, main:641]: 52%
+INFO [HealpixSigFluxMap.cc, main:641]: 46%
+INFO [HealpixSigFluxMap.cc, main:641]: 77%
+INFO [HealpixSigFluxMap.cc, main:641]: 2%
+INFO [HealpixSigFluxMap.cc, main:641]: 53%
+INFO [HealpixSigFluxMap.cc, main:641]: 47%
+INFO [HealpixSigFluxMap.cc, main:641]: 54%
+INFO [HealpixSigFluxMap.cc, main:641]: 3%
+INFO [HealpixSigFluxMap.cc, main:641]: 78%
+INFO [HealpixSigFluxMap.cc, main:641]: 55%
+INFO [HealpixSigFluxMap.cc, main:641]: 4%
+INFO [HealpixSigFluxMap.cc, main:641]: 48%
+INFO [HealpixSigFluxMap.cc, main:641]: 56%
+INFO [HealpixSigFluxMap.cc, main:641]: 79%
+INFO [HealpixSigFluxMap.cc, main:641]: 5%
+INFO [HealpixSigFluxMap.cc, main:641]: 49%
+INFO [HealpixSigFluxMap.cc, main:641]: 57%
+INFO [HealpixSigFluxMap.cc, main:641]: 6%
+INFO [HealpixSigFluxMap.cc, main:641]: 80%
+INFO [HealpixSigFluxMap.cc, main:641]: 58%
+INFO [HealpixSigFluxMap.cc, main:641]: 50%
+INFO [HealpixSigFluxMap.cc, main:641]: 7%
+INFO [HealpixSigFluxMap.cc, main:641]: 59%
+INFO [HealpixSigFluxMap.cc, main:641]: 81%
+INFO [HealpixSigFluxMap.cc, main:641]: 60%
+INFO [HealpixSigFluxMap.cc, main:641]: 8%
+INFO [HealpixSigFluxMap.cc, main:641]: 51%
+INFO [HealpixSigFluxMap.cc, main:641]: 61%
+INFO [HealpixSigFluxMap.cc, main:641]: 9%
+INFO [HealpixSigFluxMap.cc, main:641]: 82%
+INFO [HealpixSigFluxMap.cc, main:641]: 52%
+INFO [HealpixSigFluxMap.cc, main:641]: 62%
+INFO [HealpixSigFluxMap.cc, main:641]: 83%
+INFO [HealpixSigFluxMap.cc, main:641]: 10%
+INFO [HealpixSigFluxMap.cc, main:641]: 63%
+INFO [HealpixSigFluxMap.cc, main:641]: 84%
+INFO [HealpixSigFluxMap.cc, main:641]: 53%
+INFO [HealpixSigFluxMap.cc, main:641]: 11%
+INFO [HealpixSigFluxMap.cc, main:641]: 64%
+INFO [HealpixSigFluxMap.cc, main:641]: 85%
+INFO [HealpixSigFluxMap.cc, main:641]: 12%
+INFO [HealpixSigFluxMap.cc, main:641]: 65%
+INFO [HealpixSigFluxMap.cc, main:641]: 54%
+INFO [HealpixSigFluxMap.cc, main:641]: 86%
+INFO [HealpixSigFluxMap.cc, main:641]: 66%
+INFO [HealpixSigFluxMap.cc, main:641]: 13%
+INFO [HealpixSigFluxMap.cc, main:641]: 87%
+INFO [HealpixSigFluxMap.cc, main:641]: 67%
+INFO [HealpixSigFluxMap.cc, main:641]: 55%
+INFO [HealpixSigFluxMap.cc, main:641]: 14%
+INFO [HealpixSigFluxMap.cc, main:641]: 88%
+INFO [HealpixSigFluxMap.cc, main:641]: 68%
+INFO [HealpixSigFluxMap.cc, main:641]: 15%
+INFO [HealpixSigFluxMap.cc, main:641]: 89%
+INFO [HealpixSigFluxMap.cc, main:641]: 56%
+INFO [HealpixSigFluxMap.cc, main:641]: 69%
+INFO [HealpixSigFluxMap.cc, main:641]: 90%
+INFO [HealpixSigFluxMap.cc, main:641]: 16%
+INFO [HealpixSigFluxMap.cc, main:641]: 70%
+INFO [HealpixSigFluxMap.cc, main:641]: 57%
+INFO [HealpixSigFluxMap.cc, main:641]: 91%
+INFO [HealpixSigFluxMap.cc, main:641]: 17%
+INFO [HealpixSigFluxMap.cc, main:641]: 71%
+INFO [HealpixSigFluxMap.cc, main:641]: 18%
+INFO [HealpixSigFluxMap.cc, main:641]: 92%
+INFO [HealpixSigFluxMap.cc, main:641]: 58%
+INFO [HealpixSigFluxMap.cc, main:641]: 72%
+INFO [HealpixSigFluxMap.cc, main:641]: 19%
+INFO [HealpixSigFluxMap.cc, main:641]: 93%
+INFO [HealpixSigFluxMap.cc, main:641]: 73%
+INFO [HealpixSigFluxMap.cc, main:641]: 20%
+INFO [HealpixSigFluxMap.cc, main:641]: 59%
+INFO [HealpixSigFluxMap.cc, main:641]: 94%
+INFO [HealpixSigFluxMap.cc, main:641]: 74%
+INFO [HealpixSigFluxMap.cc, main:641]: 21%
+INFO [HealpixSigFluxMap.cc, main:641]: 75%
+INFO [HealpixSigFluxMap.cc, main:641]: 95%
+INFO [HealpixSigFluxMap.cc, main:641]: 60%
+INFO [HealpixSigFluxMap.cc, main:641]: 22%
+INFO [HealpixSigFluxMap.cc, main:641]: 76%
+INFO [HealpixSigFluxMap.cc, main:641]: 96%
+INFO [HealpixSigFluxMap.cc, main:641]: 23%
+INFO [HealpixSigFluxMap.cc, main:641]: 61%
+INFO [HealpixSigFluxMap.cc, main:641]: 77%
+INFO [HealpixSigFluxMap.cc, main:641]: 97%
+INFO [HealpixSigFluxMap.cc, main:641]: 24%
+INFO [HealpixSigFluxMap.cc, main:641]: 78%
+INFO [HealpixSigFluxMap.cc, main:641]: 62%
+INFO [HealpixSigFluxMap.cc, main:641]: 25%
+INFO [HealpixSigFluxMap.cc, main:641]: 98%
+INFO [HealpixSigFluxMap.cc, main:641]: 79%
+INFO [HealpixSigFluxMap.cc, main:641]: 26%
+INFO [HealpixSigFluxMap.cc, main:641]: 99%
+INFO [HealpixSigFluxMap.cc, main:641]: 80%
+INFO [HealpixSigFluxMap.cc, main:641]: 63%
+INFO [HealpixSigFluxMap.cc, main:641]: 100%
+INFO [HealpixSigFluxMap.cc, main:855]: Writing file /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/cut/map/25.fits.gz to disk...
+INFO [HealpixSigFluxMap.cc, main:641]: 27%
+INFO [HealpixSigFluxMap.cc, main:641]: 81%
+INFO [HealpixSigFluxMap.cc, main:641]: 64%
+INFO [HealpixSigFluxMap.cc, main:641]: 82%
+INFO [HealpixSigFluxMap.cc, main:641]: 28%
+INFO [HealpixSigFluxMap.cc, main:641]: 83%
+INFO [HealpixSigFluxMap.cc, main:641]: 65%
+INFO [HealpixSigFluxMap.cc, main:641]: 29%
+INFO [HealpixSigFluxMap.cc, main:641]: 84%
+INFO [HealpixSigFluxMap.cc, main:641]: 66%
+INFO [HealpixSigFluxMap.cc, main:641]: 30%
+INFO [HealpixSigFluxMap.cc, main:641]: 85%
+INFO [HealpixSigFluxMap.cc, main:641]: 86%
+INFO [HealpixSigFluxMap.cc, main:641]: 67%
+INFO [HealpixSigFluxMap.cc, main:641]: 31%
+INFO [HealpixSigFluxMap.cc, main:641]: 87%
+INFO [HealpixSigFluxMap.cc, main:628]: 0%
+INFO [HealpixSigFluxMap.cc, main:641]: 68%
+INFO [HealpixSigFluxMap.cc, main:641]: 88%
+INFO [HealpixSigFluxMap.cc, main:641]: 32%
+INFO [HealpixSigFluxMap.cc, main:641]: 1%
+INFO [HealpixSigFluxMap.cc, main:641]: 69%
+INFO [HealpixSigFluxMap.cc, main:628]: 0%
+INFO [HealpixSigFluxMap.cc, main:641]: 89%
+INFO [HealpixSigFluxMap.cc, main:641]: 2%
+INFO [HealpixSigFluxMap.cc, main:641]: 33%
+INFO [HealpixSigFluxMap.cc, main:641]: 1%
+INFO [HealpixSigFluxMap.cc, main:641]: 70%
+INFO [HealpixSigFluxMap.cc, main:641]: 90%
+INFO [HealpixSigFluxMap.cc, main:641]: 3%
+INFO [HealpixSigFluxMap.cc, main:641]: 2%
+INFO [HealpixSigFluxMap.cc, main:641]: 34%
+INFO [HealpixSigFluxMap.cc, main:641]: 91%
+INFO [HealpixSigFluxMap.cc, main:641]: 71%
+INFO [HealpixSigFluxMap.cc, main:641]: 4%
+INFO [HealpixSigFluxMap.cc, main:641]: 3%
+INFO [HealpixSigFluxMap.cc, main:641]: 92%
+INFO [HealpixSigFluxMap.cc, main:641]: 72%
+INFO [HealpixSigFluxMap.cc, main:641]: 35%
+INFO [HealpixSigFluxMap.cc, main:641]: 4%
+INFO [HealpixSigFluxMap.cc, main:641]: 5%
+INFO [HealpixSigFluxMap.cc, main:641]: 93%
+INFO [HealpixSigFluxMap.cc, main:641]: 5%
+INFO [HealpixSigFluxMap.cc, main:641]: 6%
+INFO [HealpixSigFluxMap.cc, main:641]: 73%
+INFO [HealpixSigFluxMap.cc, main:641]: 36%
+INFO [HealpixSigFluxMap.cc, main:641]: 94%
+INFO [HealpixSigFluxMap.cc, main:641]: 6%
+INFO [HealpixSigFluxMap.cc, main:641]: 7%
+INFO [HealpixSigFluxMap.cc, main:641]: 74%
+INFO [HealpixSigFluxMap.cc, main:641]: 7%
+INFO [HealpixSigFluxMap.cc, main:641]: 95%
+INFO [HealpixSigFluxMap.cc, main:641]: 37%
+INFO [HealpixSigFluxMap.cc, main:641]: 8%
+INFO [HealpixSigFluxMap.cc, main:641]: 8%
+INFO [HealpixSigFluxMap.cc, main:641]: 75%
+INFO [HealpixSigFluxMap.cc, main:641]: 96%
+INFO [HealpixSigFluxMap.cc, main:641]: 9%
+INFO [HealpixSigFluxMap.cc, main:641]: 38%
+INFO [HealpixSigFluxMap.cc, main:641]: 9%
+INFO [HealpixSigFluxMap.cc, main:641]: 76%
+INFO [HealpixSigFluxMap.cc, main:641]: 97%
+INFO [HealpixSigFluxMap.cc, main:641]: 10%
+INFO [HealpixSigFluxMap.cc, main:641]: 10%
+INFO [HealpixSigFluxMap.cc, main:641]: 39%
+INFO [HealpixSigFluxMap.cc, main:641]: 98%
+INFO [HealpixSigFluxMap.cc, main:641]: 77%
+INFO [HealpixSigFluxMap.cc, main:641]: 11%
+INFO [HealpixSigFluxMap.cc, main:641]: 11%
+INFO [HealpixSigFluxMap.cc, main:641]: 99%
+INFO [HealpixSigFluxMap.cc, main:641]: 78%
+INFO [HealpixSigFluxMap.cc, main:641]: 12%
+INFO [HealpixSigFluxMap.cc, main:641]: 40%
+INFO [HealpixSigFluxMap.cc, main:641]: 12%
+INFO [HealpixSigFluxMap.cc, main:641]: 100%
+INFO [HealpixSigFluxMap.cc, main:855]: Writing file /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/cut/map/49.fits.gz to disk...
+INFO [HealpixSigFluxMap.cc, main:641]: 13%
+INFO [HealpixSigFluxMap.cc, main:641]: 79%
+INFO [HealpixSigFluxMap.cc, main:641]: 13%
+INFO [HealpixSigFluxMap.cc, main:641]: 41%
+INFO [HealpixSigFluxMap.cc, main:641]: 14%
+INFO [HealpixSigFluxMap.cc, main:641]: 80%
+INFO [HealpixSigFluxMap.cc, main:641]: 14%
+INFO [HealpixSigFluxMap.cc, main:641]: 15%
+INFO [HealpixSigFluxMap.cc, main:641]: 42%
+INFO [HealpixSigFluxMap.cc, main:641]: 15%
+INFO [HealpixSigFluxMap.cc, main:641]: 81%
+INFO [HealpixSigFluxMap.cc, main:641]: 16%
+INFO [HealpixSigFluxMap.cc, main:641]: 16%
+INFO [HealpixSigFluxMap.cc, main:641]: 82%
+INFO [HealpixSigFluxMap.cc, main:641]: 43%
+INFO [HealpixSigFluxMap.cc, main:641]: 17%
+INFO [HealpixSigFluxMap.cc, main:641]: 17%
+INFO [HealpixSigFluxMap.cc, main:641]: 83%
+INFO [HealpixSigFluxMap.cc, main:641]: 18%
+INFO [HealpixSigFluxMap.cc, main:641]: 18%
+INFO [HealpixSigFluxMap.cc, main:641]: 44%
+INFO [HealpixSigFluxMap.cc, main:641]: 84%
+INFO [HealpixSigFluxMap.cc, main:641]: 19%
+INFO [HealpixSigFluxMap.cc, main:641]: 19%
+INFO [HealpixSigFluxMap.cc, main:641]: 85%
+INFO [HealpixSigFluxMap.cc, main:641]: 45%
+INFO [HealpixSigFluxMap.cc, main:641]: 20%
+INFO [HealpixSigFluxMap.cc, main:641]: 20%
+INFO [HealpixSigFluxMap.cc, main:641]: 86%
+INFO [HealpixSigFluxMap.cc, main:641]: 21%
+INFO [HealpixSigFluxMap.cc, main:641]: 21%
+INFO [HealpixSigFluxMap.cc, main:641]: 87%
+INFO [HealpixSigFluxMap.cc, main:641]: 46%
+INFO [HealpixSigFluxMap.cc, main:641]: 22%
+INFO [HealpixSigFluxMap.cc, main:641]: 22%
+INFO [HealpixSigFluxMap.cc, main:641]: 88%
+INFO [HealpixSigFluxMap.cc, main:628]: 0%
+INFO [HealpixSigFluxMap.cc, main:641]: 47%
+INFO [HealpixSigFluxMap.cc, main:641]: 23%
+INFO [HealpixSigFluxMap.cc, main:641]: 23%
+INFO [HealpixSigFluxMap.cc, main:641]: 89%
+INFO [HealpixSigFluxMap.cc, main:641]: 1%
+INFO [HealpixSigFluxMap.cc, main:641]: 24%
+INFO [HealpixSigFluxMap.cc, main:641]: 24%
+INFO [HealpixSigFluxMap.cc, main:641]: 90%
+INFO [HealpixSigFluxMap.cc, main:641]: 48%
+INFO [HealpixSigFluxMap.cc, main:641]: 2%
+INFO [HealpixSigFluxMap.cc, main:641]: 25%
+INFO [HealpixSigFluxMap.cc, main:641]: 25%
+INFO [HealpixSigFluxMap.cc, main:641]: 91%
+INFO [HealpixSigFluxMap.cc, main:641]: 3%
+INFO [HealpixSigFluxMap.cc, main:641]: 26%
+INFO [HealpixSigFluxMap.cc, main:641]: 49%
+INFO [HealpixSigFluxMap.cc, main:641]: 26%
+INFO [HealpixSigFluxMap.cc, main:641]: 92%
+INFO [HealpixSigFluxMap.cc, main:641]: 4%
+INFO [HealpixSigFluxMap.cc, main:641]: 27%
+INFO [HealpixSigFluxMap.cc, main:641]: 27%
+INFO [HealpixSigFluxMap.cc, main:641]: 93%
+INFO [HealpixSigFluxMap.cc, main:641]: 5%
+INFO [HealpixSigFluxMap.cc, main:641]: 50%
+INFO [HealpixSigFluxMap.cc, main:641]: 28%
+INFO [HealpixSigFluxMap.cc, main:641]: 28%
+INFO [HealpixSigFluxMap.cc, main:641]: 94%
+INFO [HealpixSigFluxMap.cc, main:641]: 6%
+INFO [HealpixSigFluxMap.cc, main:641]: 29%
+INFO [HealpixSigFluxMap.cc, main:641]: 29%
+INFO [HealpixSigFluxMap.cc, main:641]: 51%
+INFO [HealpixSigFluxMap.cc, main:641]: 95%
+INFO [HealpixSigFluxMap.cc, main:641]: 7%
+INFO [HealpixSigFluxMap.cc, main:641]: 30%
+INFO [HealpixSigFluxMap.cc, main:641]: 30%
+INFO [HealpixSigFluxMap.cc, main:641]: 96%
+INFO [HealpixSigFluxMap.cc, main:641]: 8%
+INFO [HealpixSigFluxMap.cc, main:641]: 52%
+INFO [HealpixSigFluxMap.cc, main:641]: 31%
+INFO [HealpixSigFluxMap.cc, main:641]: 31%
+INFO [HealpixSigFluxMap.cc, main:641]: 97%
+INFO [HealpixSigFluxMap.cc, main:641]: 9%
+INFO [HealpixSigFluxMap.cc, main:641]: 32%
+INFO [HealpixSigFluxMap.cc, main:641]: 53%
+INFO [HealpixSigFluxMap.cc, main:641]: 32%
+INFO [HealpixSigFluxMap.cc, main:641]: 98%
+INFO [HealpixSigFluxMap.cc, main:641]: 10%
+INFO [HealpixSigFluxMap.cc, main:641]: 33%
+INFO [HealpixSigFluxMap.cc, main:641]: 33%
+INFO [HealpixSigFluxMap.cc, main:641]: 99%
+INFO [HealpixSigFluxMap.cc, main:641]: 54%
+INFO [HealpixSigFluxMap.cc, main:641]: 11%
+INFO [HealpixSigFluxMap.cc, main:641]: 34%
+INFO [HealpixSigFluxMap.cc, main:641]: 34%
+INFO [HealpixSigFluxMap.cc, main:641]: 100%
+INFO [HealpixSigFluxMap.cc, main:855]: Writing file /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/cut/map/29.fits.gz to disk...
+INFO [HealpixSigFluxMap.cc, main:641]: 12%
+INFO [HealpixSigFluxMap.cc, main:641]: 35%
+INFO [HealpixSigFluxMap.cc, main:641]: 35%
+INFO [HealpixSigFluxMap.cc, main:641]: 55%
+INFO [HealpixSigFluxMap.cc, main:641]: 13%
+INFO [HealpixSigFluxMap.cc, main:641]: 36%
+INFO [HealpixSigFluxMap.cc, main:641]: 36%
+INFO [HealpixSigFluxMap.cc, main:641]: 14%
+INFO [HealpixSigFluxMap.cc, main:641]: 56%
+INFO [HealpixSigFluxMap.cc, main:641]: 37%
+INFO [HealpixSigFluxMap.cc, main:641]: 37%
+INFO [HealpixSigFluxMap.cc, main:641]: 15%
+INFO [HealpixSigFluxMap.cc, main:641]: 38%
+INFO [HealpixSigFluxMap.cc, main:641]: 38%
+INFO [HealpixSigFluxMap.cc, main:641]: 57%
+INFO [HealpixSigFluxMap.cc, main:641]: 16%
+INFO [HealpixSigFluxMap.cc, main:641]: 39%
+INFO [HealpixSigFluxMap.cc, main:641]: 39%
+INFO [HealpixSigFluxMap.cc, main:641]: 17%
+INFO [HealpixSigFluxMap.cc, main:641]: 40%
+INFO [HealpixSigFluxMap.cc, main:641]: 58%
+INFO [HealpixSigFluxMap.cc, main:641]: 40%
+INFO [HealpixSigFluxMap.cc, main:641]: 18%
+INFO [HealpixSigFluxMap.cc, main:641]: 41%
+INFO [HealpixSigFluxMap.cc, main:641]: 41%
+INFO [HealpixSigFluxMap.cc, main:641]: 59%
+INFO [HealpixSigFluxMap.cc, main:641]: 19%
+INFO [HealpixSigFluxMap.cc, main:641]: 42%
+INFO [HealpixSigFluxMap.cc, main:641]: 42%
+INFO [HealpixSigFluxMap.cc, main:641]: 20%
+INFO [HealpixSigFluxMap.cc, main:641]: 43%
+INFO [HealpixSigFluxMap.cc, main:641]: 60%
+INFO [HealpixSigFluxMap.cc, main:641]: 43%
+INFO [HealpixSigFluxMap.cc, main:641]: 21%
+INFO [HealpixSigFluxMap.cc, main:641]: 44%
+INFO [HealpixSigFluxMap.cc, main:641]: 44%
+INFO [HealpixSigFluxMap.cc, main:641]: 22%
+INFO [HealpixSigFluxMap.cc, main:641]: 61%
+INFO [HealpixSigFluxMap.cc, main:641]: 45%
+INFO [HealpixSigFluxMap.cc, main:641]: 45%
+INFO [HealpixSigFluxMap.cc, main:641]: 23%
+INFO [HealpixSigFluxMap.cc, main:641]: 46%
+INFO [HealpixSigFluxMap.cc, main:641]: 46%
+INFO [HealpixSigFluxMap.cc, main:641]: 62%
+INFO [HealpixSigFluxMap.cc, main:641]: 24%
+INFO [HealpixSigFluxMap.cc, main:641]: 47%
+INFO [HealpixSigFluxMap.cc, main:641]: 47%
+INFO [HealpixSigFluxMap.cc, main:641]: 25%
+INFO [HealpixSigFluxMap.cc, main:641]: 48%
+INFO [HealpixSigFluxMap.cc, main:641]: 63%
+INFO [HealpixSigFluxMap.cc, main:641]: 48%
+INFO [HealpixSigFluxMap.cc, main:641]: 26%
+INFO [HealpixSigFluxMap.cc, main:641]: 49%
+INFO [HealpixSigFluxMap.cc, main:641]: 49%
+INFO [HealpixSigFluxMap.cc, main:641]: 27%
+INFO [HealpixSigFluxMap.cc, main:641]: 64%
+INFO [HealpixSigFluxMap.cc, main:641]: 50%
+INFO [HealpixSigFluxMap.cc, main:641]: 50%
+INFO [HealpixSigFluxMap.cc, main:641]: 28%
+INFO [HealpixSigFluxMap.cc, main:641]: 51%
+INFO [HealpixSigFluxMap.cc, main:641]: 51%
+INFO [HealpixSigFluxMap.cc, main:641]: 65%
+INFO [HealpixSigFluxMap.cc, main:641]: 29%
+INFO [HealpixSigFluxMap.cc, main:641]: 52%
+INFO [HealpixSigFluxMap.cc, main:641]: 52%
+INFO [HealpixSigFluxMap.cc, main:641]: 30%
+INFO [HealpixSigFluxMap.cc, main:641]: 66%
+INFO [HealpixSigFluxMap.cc, main:641]: 53%
+INFO [HealpixSigFluxMap.cc, main:641]: 53%
+INFO [HealpixSigFluxMap.cc, main:641]: 31%
+INFO [HealpixSigFluxMap.cc, main:641]: 54%
+INFO [HealpixSigFluxMap.cc, main:641]: 54%
+INFO [HealpixSigFluxMap.cc, main:641]: 67%
+INFO [HealpixSigFluxMap.cc, main:641]: 55%
+INFO [HealpixSigFluxMap.cc, main:641]: 32%
+INFO [HealpixSigFluxMap.cc, main:641]: 55%
+INFO [HealpixSigFluxMap.cc, main:641]: 56%
+INFO [HealpixSigFluxMap.cc, main:900]: Elapsed time: 2.86667 min
+INFO [HealpixSigFluxMap.cc, main:641]: 68%
+INFO [HealpixSigFluxMap.cc, main:641]: 33%
+INFO [HealpixSigFluxMap.cc, main:641]: 56%
+INFO [HealpixSigFluxMap.cc, main:641]: 57%
+INFO [HealpixSigFluxMap.cc, main:641]: 57%
+INFO [HealpixSigFluxMap.cc, main:641]: 34%
+INFO [HealpixSigFluxMap.cc, main:641]: 69%
+INFO [HealpixSigFluxMap.cc, main:641]: 58%
+INFO [HealpixSigFluxMap.cc, main:641]: 58%
+INFO [HealpixSigFluxMap.cc, main:641]: 35%
+INFO [HealpixSigFluxMap.cc, main:641]: 59%
+INFO [HealpixSigFluxMap.cc, main:641]: 70%
+INFO [HealpixSigFluxMap.cc, main:641]: 59%
+INFO [HealpixSigFluxMap.cc, main:641]: 36%
+INFO [HealpixSigFluxMap.cc, main:641]: 60%
+INFO [HealpixSigFluxMap.cc, main:641]: 60%
+INFO [HealpixSigFluxMap.cc, main:641]: 37%
+INFO [HealpixSigFluxMap.cc, main:641]: 71%
+INFO [HealpixSigFluxMap.cc, main:641]: 61%
+INFO [HealpixSigFluxMap.cc, main:641]: 61%
+INFO [HealpixSigFluxMap.cc, main:641]: 38%
+INFO [HealpixSigFluxMap.cc, main:641]: 62%
+INFO [HealpixSigFluxMap.cc, main:641]: 62%
+INFO [HealpixSigFluxMap.cc, main:641]: 72%
+INFO [HealpixSigFluxMap.cc, main:641]: 39%
+INFO [HealpixSigFluxMap.cc, main:641]: 63%
+INFO [HealpixSigFluxMap.cc, main:641]: 63%
+INFO [HealpixSigFluxMap.cc, main:900]: Elapsed time: 2.88333 min
+INFO [HealpixSigFluxMap.cc, main:641]: 40%
+INFO [HealpixSigFluxMap.cc, main:641]: 64%
+INFO [HealpixSigFluxMap.cc, main:641]: 73%
+INFO [HealpixSigFluxMap.cc, main:641]: 64%
+INFO [HealpixSigFluxMap.cc, main:641]: 41%
+INFO [HealpixSigFluxMap.cc, main:641]: 65%
+INFO [HealpixSigFluxMap.cc, main:641]: 65%
+INFO [HealpixSigFluxMap.cc, main:641]: 74%
+INFO [HealpixSigFluxMap.cc, main:641]: 42%
+INFO [HealpixSigFluxMap.cc, main:641]: 66%
+INFO [HealpixSigFluxMap.cc, main:641]: 66%
+INFO [HealpixSigFluxMap.cc, main:641]: 75%
+INFO [HealpixSigFluxMap.cc, main:641]: 43%
+INFO [HealpixSigFluxMap.cc, main:641]: 67%
+INFO [HealpixSigFluxMap.cc, main:641]: 67%
+INFO [HealpixSigFluxMap.cc, main:641]: 76%
+INFO [HealpixSigFluxMap.cc, main:641]: 44%
+INFO [HealpixSigFluxMap.cc, main:641]: 68%
+INFO [HealpixSigFluxMap.cc, main:641]: 68%
+INFO [HealpixSigFluxMap.cc, main:641]: 69%
+INFO [HealpixSigFluxMap.cc, main:641]: 77%
+INFO [HealpixSigFluxMap.cc, main:641]: 45%
+INFO [HealpixSigFluxMap.cc, main:641]: 69%
+INFO [HealpixSigFluxMap.cc, main:641]: 70%
+INFO [HealpixSigFluxMap.cc, main:641]: 78%
+INFO [HealpixSigFluxMap.cc, main:641]: 46%
+INFO [HealpixSigFluxMap.cc, main:641]: 70%
+INFO [HealpixSigFluxMap.cc, main:641]: 71%
+INFO [HealpixSigFluxMap.cc, main:641]: 47%
+INFO [HealpixSigFluxMap.cc, main:641]: 79%
+INFO [HealpixSigFluxMap.cc, main:641]: 71%
+INFO [HealpixSigFluxMap.cc, main:641]: 72%
+INFO [HealpixSigFluxMap.cc, main:641]: 48%
+INFO [HealpixSigFluxMap.cc, main:641]: 80%
+INFO [HealpixSigFluxMap.cc, main:641]: 72%
+INFO [HealpixSigFluxMap.cc, main:641]: 73%
+INFO [HealpixSigFluxMap.cc, main:641]: 49%
+INFO [HealpixSigFluxMap.cc, main:641]: 81%
+INFO [HealpixSigFluxMap.cc, main:641]: 73%
+INFO [HealpixSigFluxMap.cc, main:641]: 50%
+INFO [HealpixSigFluxMap.cc, main:641]: 74%
+INFO [HealpixSigFluxMap.cc, main:641]: 82%
+INFO [HealpixSigFluxMap.cc, main:641]: 74%
+INFO [HealpixSigFluxMap.cc, main:641]: 51%
+INFO [HealpixSigFluxMap.cc, main:641]: 75%
+INFO [HealpixSigFluxMap.cc, main:641]: 83%
+INFO [HealpixSigFluxMap.cc, main:641]: 52%
+INFO [HealpixSigFluxMap.cc, main:641]: 75%
+INFO [HealpixSigFluxMap.cc, main:641]: 76%
+INFO [HealpixSigFluxMap.cc, main:641]: 53%
+INFO [HealpixSigFluxMap.cc, main:641]: 84%
+INFO [HealpixSigFluxMap.cc, main:641]: 76%
+INFO [HealpixSigFluxMap.cc, main:641]: 77%
+INFO [HealpixSigFluxMap.cc, main:641]: 54%
+INFO [HealpixSigFluxMap.cc, main:641]: 85%
+INFO [HealpixSigFluxMap.cc, main:641]: 77%
+INFO [HealpixSigFluxMap.cc, main:641]: 78%
+INFO [HealpixSigFluxMap.cc, main:641]: 55%
+INFO [HealpixSigFluxMap.cc, main:641]: 86%
+INFO [HealpixSigFluxMap.cc, main:641]: 78%
+INFO [HealpixSigFluxMap.cc, main:641]: 79%
+INFO [HealpixSigFluxMap.cc, main:641]: 56%
+INFO [HealpixSigFluxMap.cc, main:641]: 87%
+INFO [HealpixSigFluxMap.cc, main:641]: 79%
+INFO [HealpixSigFluxMap.cc, main:641]: 57%
+INFO [HealpixSigFluxMap.cc, main:641]: 80%
+INFO [HealpixSigFluxMap.cc, main:641]: 88%
+INFO [HealpixSigFluxMap.cc, main:641]: 58%
+INFO [HealpixSigFluxMap.cc, main:641]: 80%
+INFO [HealpixSigFluxMap.cc, main:641]: 81%
+INFO [HealpixSigFluxMap.cc, main:641]: 59%
+INFO [HealpixSigFluxMap.cc, main:641]: 82%
+INFO [HealpixSigFluxMap.cc, main:641]: 89%
+INFO [HealpixSigFluxMap.cc, main:641]: 81%
+INFO [HealpixSigFluxMap.cc, main:641]: 60%
+INFO [HealpixSigFluxMap.cc, main:641]: 83%
+INFO [HealpixSigFluxMap.cc, main:641]: 82%
+INFO [HealpixSigFluxMap.cc, main:641]: 90%
+INFO [HealpixSigFluxMap.cc, main:641]: 61%
+INFO [HealpixSigFluxMap.cc, main:641]: 84%
+INFO [HealpixSigFluxMap.cc, main:641]: 83%
+INFO [HealpixSigFluxMap.cc, main:641]: 91%
+INFO [HealpixSigFluxMap.cc, main:641]: 62%
+INFO [HealpixSigFluxMap.cc, main:641]: 85%
+INFO [HealpixSigFluxMap.cc, main:641]: 84%
+INFO [HealpixSigFluxMap.cc, main:641]: 92%
+INFO [HealpixSigFluxMap.cc, main:641]: 63%
+INFO [HealpixSigFluxMap.cc, main:641]: 86%
+INFO [HealpixSigFluxMap.cc, main:641]: 64%
+INFO [HealpixSigFluxMap.cc, main:641]: 85%
+INFO [HealpixSigFluxMap.cc, main:641]: 87%
+INFO [HealpixSigFluxMap.cc, main:641]: 93%
+INFO [HealpixSigFluxMap.cc, main:641]: 65%
+INFO [HealpixSigFluxMap.cc, main:641]: 88%
+INFO [HealpixSigFluxMap.cc, main:641]: 86%
+INFO [HealpixSigFluxMap.cc, main:641]: 94%
+INFO [HealpixSigFluxMap.cc, main:641]: 66%
+INFO [HealpixSigFluxMap.cc, main:641]: 89%
+INFO [HealpixSigFluxMap.cc, main:641]: 87%
+INFO [HealpixSigFluxMap.cc, main:641]: 95%
+INFO [HealpixSigFluxMap.cc, main:641]: 67%
+INFO [HealpixSigFluxMap.cc, main:641]: 90%
+INFO [HealpixSigFluxMap.cc, main:641]: 88%
+INFO [HealpixSigFluxMap.cc, main:641]: 96%
+INFO [HealpixSigFluxMap.cc, main:900]: Elapsed time: 2.9 min
+INFO [HealpixSigFluxMap.cc, main:641]: 68%
+INFO [HealpixSigFluxMap.cc, main:641]: 91%
+INFO [HealpixSigFluxMap.cc, main:641]: 89%
+INFO [HealpixSigFluxMap.cc, main:641]: 97%
+INFO [HealpixSigFluxMap.cc, main:641]: 69%
+INFO [HealpixSigFluxMap.cc, main:641]: 92%
+INFO [HealpixSigFluxMap.cc, main:900]: Elapsed time: 2.9 min
+INFO [HealpixSigFluxMap.cc, main:641]: 90%
+INFO [HealpixSigFluxMap.cc, main:641]: 70%
+INFO [HealpixSigFluxMap.cc, main:641]: 93%
+INFO [HealpixSigFluxMap.cc, main:641]: 98%
+INFO [HealpixSigFluxMap.cc, main:641]: 94%
+INFO [HealpixSigFluxMap.cc, main:641]: 91%
+INFO [HealpixSigFluxMap.cc, main:641]: 71%
+INFO [HealpixSigFluxMap.cc, main:641]: 99%
+INFO [HealpixSigFluxMap.cc, main:641]: 95%
+INFO [HealpixSigFluxMap.cc, main:641]: 92%
+INFO [HealpixSigFluxMap.cc, main:641]: 72%
+INFO [HealpixSigFluxMap.cc, main:641]: 100%
+INFO [HealpixSigFluxMap.cc, main:855]: Writing file /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/cut/map/91.fits.gz to disk...
+INFO [HealpixSigFluxMap.cc, main:641]: 96%
+INFO [HealpixSigFluxMap.cc, main:641]: 93%
+INFO [HealpixSigFluxMap.cc, main:641]: 73%
+INFO [HealpixSigFluxMap.cc, main:641]: 97%
+INFO [HealpixSigFluxMap.cc, main:641]: 94%
+INFO [HealpixSigFluxMap.cc, main:641]: 74%
+INFO [HealpixSigFluxMap.cc, main:641]: 98%
+INFO INFO [[HealpixSigFluxMapHealpixSigFluxMap.cc.cc, , mainmain::641641]: ]: 75%95%
+
+INFO [HealpixSigFluxMap.cc, main:641]: 99%
+INFO [HealpixSigFluxMap.cc, main:641]: 76%
+INFO [HealpixSigFluxMap.cc, main:641]: 96%
+INFO [HealpixSigFluxMap.cc, main:641]: 100%
+INFO [HealpixSigFluxMap.cc, main:855]: Writing file /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/cut/map/92.fits.gz to disk...
+INFO [HealpixSigFluxMap.cc, main:641]: 77%
+INFO [HealpixSigFluxMap.cc, main:641]: 97%
+INFO [HealpixSigFluxMap.cc, main:641]: 78%
+INFO [HealpixSigFluxMap.cc, main:641]: 98%
+INFO [HealpixSigFluxMap.cc, main:641]: 79%
+INFO [HealpixSigFluxMap.cc, main:641]: 99%
+INFO [HealpixSigFluxMap.cc, main:641]: 80%
+INFO [HealpixSigFluxMap.cc, main:641]: 100%
+INFO [HealpixSigFluxMap.cc, main:855]: Writing file /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/cut/map/115.fits.gz to disk...
+INFO [HealpixSigFluxMap.cc, main:641]: 81%
+INFO [HealpixSigFluxMap.cc, main:641]: 82%
+INFO [HealpixSigFluxMap.cc, main:641]: 83%
+INFO [HealpixSigFluxMap.cc, main:641]: 84%
+INFO [HealpixSigFluxMap.cc, main:641]: 85%
+INFO [HealpixSigFluxMap.cc, main:641]: 86%
+INFO [HealpixSigFluxMap.cc, main:641]: 87%
+INFO [HealpixSigFluxMap.cc, main:641]: 88%
+INFO [HealpixSigFluxMap.cc, main:641]: 89%
+INFO [HealpixSigFluxMap.cc, main:641]: 90%
+INFO [HealpixSigFluxMap.cc, main:641]: 91%
+INFO [HealpixSigFluxMap.cc, main:900]: Elapsed time: 2.9 min
+INFO [HealpixSigFluxMap.cc, main:641]: 92%
+INFO [HealpixSigFluxMap.cc, main:641]: 93%
+INFO [HealpixSigFluxMap.cc, main:641]: 94%
+INFO [HealpixSigFluxMap.cc, main:641]: 95%
+/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/pyfits/__init__.py:22: PyFITSDeprecationWarning: PyFITS is deprecated, please use astropy.io.fits
+  PyFITSDeprecationWarning)  # noqa
+INFO [HealpixSigFluxMap.cc, main:641]: 96%
+INFO [HealpixSigFluxMap.cc, main:641]: 97%
+INFO [HealpixSigFluxMap.cc, main:641]: 98%
+INFO [HealpixSigFluxMap.cc, main:641]: 99%
+INFO [HealpixSigFluxMap.cc, main:641]: 100%
+INFO [HealpixSigFluxMap.cc, main:855]: Writing file /lustre/hawc04/scr01_backup/userspace/jasonfan/crab/cut/map/67.fits.gz to disk...
+/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/pyfits/__init__.py:22: PyFITSDeprecationWarning: PyFITS is deprecated, please use astropy.io.fits
+  PyFITSDeprecationWarning)  # noqa
+/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/pyfits/__init__.py:22: PyFITSDeprecationWarning: PyFITS is deprecated, please use astropy.io.fits
+  PyFITSDeprecationWarning)  # noqa
+/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/pyfits/__init__.py:22: PyFITSDeprecationWarning: PyFITS is deprecated, please use astropy.io.fits
+  PyFITSDeprecationWarning)  # noqa
+INFO [HealpixSigFluxMap.cc, main:900]: Elapsed time: 2.76667 min
+/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/pyfits/__init__.py:22: PyFITSDeprecationWarning: PyFITS is deprecated, please use astropy.io.fits
+  PyFITSDeprecationWarning)  # noqa
+INFO [HealpixSigFluxMap.cc, main:900]: Elapsed time: 2.93333 min
+/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/pyfits/__init__.py:22: PyFITSDeprecationWarning: PyFITS is deprecated, please use astropy.io.fits
+  PyFITSDeprecationWarning)  # noqa
+/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/pyfits/__init__.py:22: PyFITSDeprecationWarning: PyFITS is deprecated, please use astropy.io.fits
+  PyFITSDeprecationWarning)  # noqa
+INFO [HealpixSigFluxMap.cc, main:900]: Elapsed time: 3.03333 min
+INFO [HealpixSigFluxMap.cc, main:900]: Elapsed time: 3.05 min
+/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/pyfits/__init__.py:22: PyFITSDeprecationWarning: PyFITS is deprecated, please use astropy.io.fits
+  PyFITSDeprecationWarning)  # noqa
+/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/pyfits/__init__.py:22: PyFITSDeprecationWarning: PyFITS is deprecated, please use astropy.io.fits
+  PyFITSDeprecationWarning)  # noqa
+Traceback (most recent call last):
+  File "./plotMercator.py", line 1037, in <module>
+    main()
+  File "./plotMercator.py", line 498, in main
+    pixMin,pixMax=seenpix[[np.argmin(values[seenpix]), np.argmax(values[seenpix])]]
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py", line 1068, in argmin
+    return _wrapfunc(a, 'argmin', axis=axis, out=out)
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py", line 52, in _wrapfunc
+    return getattr(obj, method)(*args, **kwds)
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/ma/core.py", line 5445, in argmin
+    return d.argmin(axis, out=out)
+ValueError: attempt to get argmin of an empty sequence
+Traceback (most recent call last):
+  File "./plotMercator.py", line 1037, in <module>
+    main()
+  File "./plotMercator.py", line 498, in main
+    pixMin,pixMax=seenpix[[np.argmin(values[seenpix]), np.argmax(values[seenpix])]]
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py", line 1068, in argmin
+    return _wrapfunc(a, 'argmin', axis=axis, out=out)
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py", line 52, in _wrapfunc
+    return getattr(obj, method)(*args, **kwds)
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/ma/core.py", line 5445, in argmin
+    return d.argmin(axis, out=out)
+ValueError: attempt to get argmin of an empty sequence
+Traceback (most recent call last):
+  File "./plotMercator.py", line 1037, in <module>
+    main()
+  File "./plotMercator.py", line 498, in main
+    pixMin,pixMax=seenpix[[np.argmin(values[seenpix]), np.argmax(values[seenpix])]]
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py", line 1068, in argmin
+    return _wrapfunc(a, 'argmin', axis=axis, out=out)
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py", line 52, in _wrapfunc
+    return getattr(obj, method)(*args, **kwds)
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/ma/core.py", line 5445, in argmin
+    return d.argmin(axis, out=out)
+ValueError: attempt to get argmin of an empty sequence
+Traceback (most recent call last):
+  File "./plotMercator.py", line 1037, in <module>
+    main()
+  File "./plotMercator.py", line 498, in main
+    pixMin,pixMax=seenpix[[np.argmin(values[seenpix]), np.argmax(values[seenpix])]]
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py", line 1068, in argmin
+    return _wrapfunc(a, 'argmin', axis=axis, out=out)
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py", line 52, in _wrapfunc
+    return getattr(obj, method)(*args, **kwds)
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/ma/core.py", line 5445, in argmin
+    return d.argmin(axis, out=out)
+ValueError: attempt to get argmin of an empty sequence
+Traceback (most recent call last):
+  File "./plotMercator.py", line 1037, in <module>
+    main()
+  File "./plotMercator.py", line 498, in main
+    pixMin,pixMax=seenpix[[np.argmin(values[seenpix]), np.argmax(values[seenpix])]]
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py", line 1068, in argmin
+    return _wrapfunc(a, 'argmin', axis=axis, out=out)
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py", line 52, in _wrapfunc
+    return getattr(obj, method)(*args, **kwds)
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/ma/core.py", line 5445, in argmin
+    return d.argmin(axis, out=out)
+ValueError: attempt to get argmin of an empty sequence
+Traceback (most recent call last):
+  File "./plotMercator.py", line 1037, in <module>
+    main()
+  File "./plotMercator.py", line 498, in main
+    pixMin,pixMax=seenpix[[np.argmin(values[seenpix]), np.argmax(values[seenpix])]]
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py", line 1068, in argmin
+    return _wrapfunc(a, 'argmin', axis=axis, out=out)
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/core/fromnumeric.py", line 52, in _wrapfunc
+    return getattr(obj, method)(*args, **kwds)
+  File "/data/disk01/home/jasonfan/miniconda2/envs/myconda/lib/python2.7/site-packages/numpy/ma/core.py", line 5445, in argmin
+    return d.argmin(axis, out=out)
+ValueError: attempt to get argmin of an empty sequence
