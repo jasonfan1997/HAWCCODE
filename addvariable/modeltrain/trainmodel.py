@@ -47,7 +47,7 @@ clf=XGBClassifier(n_estimators=500, silent=False,learning_rate=0.1, max_depth=5,
 clf.fit(training_set[:,1:],training_set[:,0])
 predicted_prob=clf.predict_proba(prediction_set[:,1:])
 clf._Booster.dump_model("mcmodel.txt")
-new=prediction_set[:,7]
+new=prediction_set[:,8]
 fbin=np.array([0,0.067,0.105,0.162,0.247,0.356,0.485,0.618,0.74,0.84,1.01])
 ebin=np.linspace(2.5, 5.5, num=13)
 result=[]
