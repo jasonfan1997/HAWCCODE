@@ -23,11 +23,7 @@
 typedef Healpix_Map<double> HMap;
 
 using namespace std;
-bool fexists(const char *filename)
-{
-  ifstream ifile(filename);
-  return ifile;
-}
+
 double Delta(double ra1, double dec1, double ra2, double dec2) {
   double x1 = cos(ra1)*sin(3.1415926536/2.-dec1);
   double y1 = sin(ra1)*sin(3.1415926536/2.-dec1);
@@ -478,8 +474,6 @@ int main(int argc, char** argv){
 	  if (doselect) fclose(fpselect);
 
 	  if(cl.HasFlag("healpix")){
-		if(!fexists(output.c_str()))
-		{
 		arr<std::string> colname(1);
 		colname[0] = "sensitivity";
 		fitshandle out;
@@ -487,9 +481,9 @@ int main(int argc, char** argv){
 		prepare_Healpix_fitsmap(out,skymap, PLANCK_FLOAT64, colname);
 		out.write_column(1,skymap.Map());
 		out.close();
-		}
+
 	  } else {
-		if(!fexists(output.c_str())){
+	 
 		evrsq->GetXaxis()->SetTitle("R sq (deg sq)");
 		
 		TFile* out = new TFile(output.c_str(),"RECREATE");
@@ -504,7 +498,6 @@ int main(int argc, char** argv){
 		evsig->Write();
 		evrsq->Write();
 		out->Write();
-		}
 	  }
 	}
 }
