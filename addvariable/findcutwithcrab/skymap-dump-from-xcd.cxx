@@ -64,7 +64,7 @@ int main(int argc, char** argv){
 
   cl.AddOption<string>("zenith-alignment-file,z", "", "zenith aligment XML");
   cl.AddOption<string>("output,o", "", "output ROOT file");
-  cl.AddOption<string>("report,o", "", "report file");
+  cl.AddOption<string>("report,r", "", "report file");
 
   cl.AddFlag("healpix","healpix all-sky map instead of ROOT output");
 
@@ -81,7 +81,10 @@ int main(int argc, char** argv){
 
   cl.AddOption<double>("licompact", "licompact cut");
   cl.AddFlag("dolicompact", "do licompact cut");
-
+  
+  cl.AddOption<double>("proba", "proba cut");
+  cl.AddFlag("doproba", "do proba cut");
+  
   cl.AddOption<double>("ldfchi2", "LDF Chi2 cut");
   cl.AddFlag("doldfchi2", "do LDF Chi2 cut");
 
@@ -128,6 +131,7 @@ int main(int argc, char** argv){
   XCDFFloatingPointField phi_x = f.GetFloatingPointField("rec.azimuthAngle");
 
   XCDFFloatingPointField pinc_x = f.GetFloatingPointField("rec.PINC");
+  XCDFFloatingPointField proba_x = f.GetFloatingPointField("rec.proba");
   XCDFFloatingPointField ldfchi2_x = f.GetFloatingPointField("rec.LDFChi2");
   //XCDFFloatingPointField dash_x = f.GetFloatingPointField("rec.DASH");
   XCDFFloatingPointField age_x = f.GetFloatingPointField("rec.LDFAge");
@@ -179,6 +183,12 @@ int main(int argc, char** argv){
   if(cl.HasFlag("dopinc")){
     dopinc = true;
     pinc_cut_value = cl.GetArgument<double>("pinc");
+  }
+  bool doproba =  false;
+  double proba_cut_value=0;
+  if(cl.HasFlag("doproba")){
+    doproba = true;
+    proba_cut_value = cl.GetArgument<double>("proba");
   }
 
   bool doldfchi2 =  false;
@@ -285,6 +295,10 @@ int main(int argc, char** argv){
       if(pinc_x.At(0) > pinc_cut_value)
 	isgamma = false;
     }
+	if(doproba){
+      if(proba_x.At(0) < proba_cut_value)
+	isgamma = false;
+    }
 
     if(doldfchi2){
       if(ldfchi2_x.At(0) > ldfchi2_cut_value)
@@ -361,6 +375,8 @@ int main(int argc, char** argv){
   fprintf(fp,"File                       : %s\n",recfile[0].c_str());
   if (dopinc) 
     fprintf(fp,"PINC Cut                   : %6.2f\n",pinc_cut_value);
+  if(doproba)
+	fprintf(fp,"proba Cut          : %6.6f\n",proba_cut_value);  
   if (dolicompact) 
     fprintf(fp,"LICompactness              : %6.2f\n",licompact_cut_value);
   if (doldfchi2) 
