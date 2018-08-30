@@ -18,7 +18,7 @@ np.random.seed(seed)
 import pandas as pd
 
 GAMMADIR = "./Signal.csv"
-HADRONDIR="./recco_run007740.csv"
+HADRONDIR="./Background.csv"
 COLUMNS = ["rec.nHit/U/1","rec.CxPE40/F/0.01","rec.PINC/F/0.01","rec.logNNEnergyV2/F/0","rec.disMax/F/0.01","rec.LDFAmp/F/0.01","rec.LDFChi2/F/0.01","rec.nChAvail/U/1","rec.nHitSP20/U/1"]
 allset = pd.read_csv(GAMMADIR, skipinitialspace=True,
                              skiprows=0, usecols=COLUMNS)[COLUMNS].as_matrix()
@@ -53,4 +53,4 @@ allset=np.vstack((allset,hadron))
 '''
 np.random.shuffle(allset)
 
-np.save("rdcut.npy",allset)
+np.save("data.npy",allset)
