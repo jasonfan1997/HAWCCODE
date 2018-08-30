@@ -40,7 +40,7 @@ then
 fi
 CUT="(rec.angleFitStatus==0)&&(rec.coreFitStatus==0)&&(rec.nChAvail >= 700)&&(rec.coreFiduScale <= 100)&&(rec.zenithAngle < 0.785)"
 
-VARIABLESRD="rec.logGPEnergy,rec.nChAvail,rec.nHit,rec.nHitSP10,rec.nHitSP20,rec.nTankAvail,rec.nTankHit,rec.windowHits,rec.planeNDOF,rec.SFCFNDOF,rec.CxPE40XnCh,rec.coreFiduScale,sweets.SWgt,sweets.TWgt,rec.zenithAngle,rec.azimuthAngle,rec.planeChi2,rec.coreX,rec.coreY,rec.logCoreAmplitude,rec.coreFitUnc,rec.SFCFChi2,rec.logNNEnergy,rec.fAnnulusCharge0,rec.fAnnulusCharge1,rec.fAnnulusCharge2,rec.fAnnulusCharge3,rec.fAnnulusCharge4,rec.fAnnulusCharge5,rec.fAnnulusCharge6,rec.fAnnulusCharge7,rec.fAnnulusCharge8,rec.protonlheEnergy,rec.protonlheLLH,rec.gammalheEnergy,rec.gammalheLLH,rec.logMaxPE,rec.logNPE,rec.CxPE40,rec.CxPE40SPTime,rec.LDFAge,rec.LDFAmp,rec.LDFChi2,rec.PINC,rec.disMax"
+VARIABLESRD="rec.logGPEnergy,rec.nChAvail,rec.nHit,rec.nHitSP10,rec.nHitSP20,rec.nTankAvail,rec.nTankHit,rec.windowHits,rec.planeNDOF,rec.SFCFNDOF,rec.CxPE40XnCh,rec.coreFiduScale,sweets.SWgt,sweets.TWgt,rec.zenithAngle,rec.azimuthAngle,rec.planeChi2,rec.coreX,rec.coreY,rec.logCoreAmplitude,rec.coreFitUnc,rec.SFCFChi2,rec.logNNEnergyV2,rec.fAnnulusCharge0,rec.fAnnulusCharge1,rec.fAnnulusCharge2,rec.fAnnulusCharge3,rec.fAnnulusCharge4,rec.fAnnulusCharge5,rec.fAnnulusCharge6,rec.fAnnulusCharge7,rec.fAnnulusCharge8,rec.protonlheEnergy,rec.protonlheLLH,rec.gammalheEnergy,rec.gammalheLLH,rec.logMaxPE,rec.logNPE,rec.CxPE40,rec.CxPE40SPTime,rec.LDFAge,rec.LDFAmp,rec.LDFChi2,rec.PINC,rec.disMax"
 
 
 TAG=`basename $HADRONFILE .xcd`
@@ -58,7 +58,7 @@ else
 fi
 
 
-VARIABLESMC="sweets.oneWgt,sweets.IWgt,sweets.TWgt,sweets.BWgt,rec.nChAvail,rec.nHit,rec.nHitSP10,rec.nHitSP20,rec.nTankAvail,rec.nTankHit,rec.windowHits,rec.planeNDOF,rec.SFCFNDOF,rec.CxPE40XnCh,rec.coreFiduScale,mc.corsikaParticleId,rec.zenithAngle,rec.azimuthAngle,rec.dec,rec.ra,rec.planeChi2,rec.coreX,rec.coreY,rec.logCoreAmplitude,rec.coreFitUnc,rec.SFCFChi2,rec.logNNEnergy,rec.fAnnulusCharge0,rec.fAnnulusCharge1,rec.fAnnulusCharge2,rec.fAnnulusCharge3,rec.fAnnulusCharge4,rec.fAnnulusCharge5,rec.fAnnulusCharge6,rec.fAnnulusCharge7,rec.fAnnulusCharge8,rec.protonlheEnergy,rec.protonlheLLH,rec.gammalheEnergy,rec.gammalheLLH,rec.logMaxPE,rec.logNPE,rec.CxPE40,rec.CxPE40SPTime,rec.LDFAge,rec.LDFAmp,rec.LDFChi2,rec.PINC,rec.disMax,mc.delAngle,mc.logEnergy"
+VARIABLESMC="sweets.oneWgt,sweets.IWgt,sweets.TWgt,sweets.BWgt,rec.nChAvail,rec.nHit,rec.nHitSP10,rec.nHitSP20,rec.nTankAvail,rec.nTankHit,rec.windowHits,rec.planeNDOF,rec.SFCFNDOF,rec.CxPE40XnCh,rec.coreFiduScale,mc.corsikaParticleId,rec.zenithAngle,rec.azimuthAngle,rec.dec,rec.ra,rec.planeChi2,rec.coreX,rec.coreY,rec.logCoreAmplitude,rec.coreFitUnc,rec.SFCFChi2,rec.logNNEnergyV2,rec.fAnnulusCharge0,rec.fAnnulusCharge1,rec.fAnnulusCharge2,rec.fAnnulusCharge3,rec.fAnnulusCharge4,rec.fAnnulusCharge5,rec.fAnnulusCharge6,rec.fAnnulusCharge7,rec.fAnnulusCharge8,rec.protonlheEnergy,rec.protonlheLLH,rec.gammalheEnergy,rec.gammalheLLH,rec.logMaxPE,rec.logNPE,rec.CxPE40,rec.CxPE40SPTime,rec.LDFAge,rec.LDFAmp,rec.LDFChi2,rec.PINC,rec.disMax,mc.delAngle,mc.logEnergy"
 for line in $INFILE
 do
     TAG=`basename $line .xcd`
