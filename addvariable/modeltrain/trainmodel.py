@@ -73,4 +73,4 @@ for i in range(len(fbin)-1):
         else:
             result.append([fbin[i],ebin[j],0,0.5,0.5,0.5])
 
-np.savetxt("mc.csv",np.array(result),delimiter=',',fmt='%f')
+np.savetxt("optcut.csv",np.array(result),delimiter=',',fmt='%f')
