@@ -34,7 +34,25 @@ def qcut(y_true, y_pred):
     position=np.argmax(q)
     return np.array([q[position],thresholds[position],tpr[position],fpr[position]])
 
+def qcut2(y_true, y_pred):
+    fpr, tpr, thresholds = roc_curve(y_true, y_pred)
+    q=tpr/np.sqrt(fpr)
+    q[q == np.inf] = 0
+    q[np.isnan(q)] = 0
+    q[tpr<0.2]=0
+    #q[fpr>0.2]=0
+    position=np.argmax(q)
+    return np.array([q[position],thresholds[position],tpr[position],fpr[position]])
 
+def qcut5(y_true, y_pred):
+    fpr, tpr, thresholds = roc_curve(y_true, y_pred)
+    q=tpr/np.sqrt(fpr)
+    q[q == np.inf] = 0
+    q[np.isnan(q)] = 0
+    q[tpr<0.5]=0
+    #q[fpr>0.2]=0
+    position=np.argmax(q)
+    return np.array([q[position],thresholds[position],tpr[position],fpr[position]])
 
 all_set =np.load("data.npy") #The data array store all the data
 #The first column of data.npy will be 0(hadron) and 1(gamma)
@@ -74,3 +92,28 @@ for i in range(len(fbin)-1):
             result.append([fbin[i],ebin[j],0,0.5,0.5,0.5])
 
 np.savetxt("optcut.csv",np.array(result),delimiter=',',fmt='%f')
+result=np.array(result)
+ENERGY_WIDTH = 0.25
+ENERGY_OFFSET = 2.50
+ename="rec.logNNEnergyV2"
+#fbin = list(range(10))
+ebin = list(range(12))
+t=0
+fbin=np.array([0,0.067,0.105,0.162,0.247,0.356,0.485,0.618,0.74,0.84,1.01])
+for i in range(len(fbin)-1):
+    for j in range(len(ebin)):
+                if result[t,3]!=0.5 and result[t,3]<=1 and t>=12:
+                    other_cut_string = str(t)+" \"{} * rec.nChAvail < rec.nHitSP20 && " \
+    						   "rec.nHitSP20 <= {} * rec.nChAvail && "\
+    						   "{} < {} && "             \
+    						   "{} <= {} && "            \
+    						   "rec.angleFitStatus == 0 && "          \
+    						   "rec.nChAvail >= 700 && "              \
+                            "rec.nChTot >= 800 && "              \
+                            "rec.nChAvail>0.9*rec.nChTot && " \
+                            "rec.zenithAngle < 0.785 && "              \
+    						   "rec.coreFiduScale <= 100.0 &&"\
+                            "{}<=rec.proba\"\n".format(fbin[i],fbin[i+1], ENERGY_WIDTH * ebin[j] + ENERGY_OFFSET, ename, ename, ENERGY_WIDTH * (ebin[j] + 1) + ENERGY_OFFSET,result[t,3])#,result[t,3],result[t,5])
+                    with open("optcut","a") as myfile:
+                        myfile.write(other_cut_string)
+                t+=1      
