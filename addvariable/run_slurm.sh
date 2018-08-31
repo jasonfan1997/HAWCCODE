@@ -35,7 +35,7 @@ aerie-apps-add-energies --in-files $list -o $QTMPDIR$slash$temp
 rm $QTMPDIR$slash$temp
 
 
-aerie-apps-scrappy-cut-dataset --cuts /data/disk01/home/jasonfan/newmc/newmcmc --outfileFormat $2$outfile < $QTMPDIR$slash$outname
+aerie-apps-scrappy-cut-dataset --cuts /data/disk01/home/jasonfan/mc/optcut --outfileFormat $2$outfile < $QTMPDIR$slash$outname
 echo "finish cut"
 rm $QTMPDIR$slash$outname
 
