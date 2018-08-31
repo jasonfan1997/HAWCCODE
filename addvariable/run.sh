@@ -8,8 +8,6 @@ export LD_LIBRARY_PATH=${CONDA_PREFIX}/lib:/data/disk01/software/hawc/ApeInstall
 export CONFIG_HAWC=/data/disk01/home/jasonfan/config-hawc
 
 
-echo "test">>$QTMPDIR"/a.txt"
-cat $QTMPDIR"/a.txt"
 input=$1
 outdir=$2
 pattern=$1"/reco*"
@@ -38,8 +36,6 @@ rm $QTMPDIR$slash$temp
 
 
 aerie-apps-scrappy-cut-dataset --cuts /data/disk01/home/jasonfan/newmc/newmcmc --outfileFormat $2$outfile < $QTMPDIR$slash$outname
-aerie-apps-scrappy-cut-dataset --cuts /data/disk01/home/jasonfan/newmc/newmcrd --outfileFormat $3$outfile < $QTMPDIR$slash$outname
-aerie-apps-scrappy-cut-dataset --cuts /data/disk01/home/jasonfan/newmc/newmcrdthres --outfileFormat $4$outfile < $QTMPDIR$slash$outname
 echo "finish cut"
 rm $QTMPDIR$slash$outname
 
@@ -66,45 +62,3 @@ do
 		fi
 done
 
-for i in {0..119}
-do 
-	if [ -e $3$input$und$i$suf ]; then
-		dir=$3$i$slash
-		event=`xcdf count $3$input$und$i$suf`
-			if [ "$event" -eq "0" ]
-			then
-			rm $3$input$und$i$suf
-			else
-				if [ -e $dir$input$und$i$suf ]
-				then
-				
-				rm $3$input$und$i$suf
-				else
-				mv -n $3$input$und$i$suf $dir
-				
-				
-				fi
-			fi
-		fi
-done
-for i in {0..119}
-do 
-	if [ -e $4$input$und$i$suf ]; then
-		dir=$4$i$slash
-		event=`xcdf count $4$input$und$i$suf`
-			if [ "$event" -eq "0" ]
-			then
-			rm $4$input$und$i$suf
-			else
-				if [ -e $dir$input$und$i$suf ]
-				then
-				
-				rm $4$input$und$i$suf
-				else
-				mv -n $4$input$und$i$suf $dir
-				
-				
-				fi
-			fi
-		fi
-done
