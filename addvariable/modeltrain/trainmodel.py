@@ -18,7 +18,6 @@ import numpy as np
 import pickle #pickle
 from sklearn.metrics import roc_curve, auc
 import sklearn
-import pandas as pd
 import math
 from xgboost import XGBClassifier
 
