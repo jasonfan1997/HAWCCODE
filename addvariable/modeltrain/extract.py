@@ -4,9 +4,6 @@
 Created on Fri Mar  9 15:16:47 2018
 
 @author: jason
-false_positive_rate, true_positive_rate, thresholds = roc_curve(training_set[:,0], result[:,2])
-roc_auc = auc(false_positive_rate, true_positive_rate)
-best=thresholds[np.argmin(false_positive_rate-true_positive_rate)]
 """
 import sys
 import numpy as np
@@ -33,7 +30,7 @@ allset=np.delete(allset,1,1)
 allset[:,6]=np.divide(allset[:,7], allset[:,6],out=np.zeros_like(allset[:,6]), where=allset[:,6]!=0)
 allset=np.delete(allset,7,1)
 allset=np.hstack((np.ones((len(allset),1)),allset))
-#allset=allset[3908982:,:]
+#allset=allset[:len(hadron),:] #balancing class
 hadron[:,0]= np.log10(np.divide(hadron[:,1],hadron[:,0], out=np.zeros_like(hadron[:,0]), where=hadron[:,0]!=0))
 hadron=np.delete(hadron,1,1)
 hadron[:,6]=np.divide(hadron[:,7], hadron[:,6],out=np.zeros_like(hadron[:,6]), where=hadron[:,6]!=0)
